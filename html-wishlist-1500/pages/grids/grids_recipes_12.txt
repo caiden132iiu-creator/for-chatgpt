@@ -1,0 +1,2 @@
+A recipe website with recipe cards (image, title, cook time).
+Brand: Bracken Recipe Club. Location: Bend, Oregon. Visual direction: purple palette; a framed introduction and generous cards.

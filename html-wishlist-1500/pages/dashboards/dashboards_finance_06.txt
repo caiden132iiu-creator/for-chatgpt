@@ -1,0 +1,2 @@
+A personal finance dashboard with balance, spending categories and transactions.
+Brand: Northstar Money. Location: Duluth, Minnesota. Visual direction: ocean palette; a side introduction with a reading column.

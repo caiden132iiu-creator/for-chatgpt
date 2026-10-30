@@ -1,0 +1,2 @@
+A survey page with radio buttons, checkboxes and a dropdown.
+Brand: Northstar Community Survey. Location: Providence, Rhode Island. Visual direction: sage palette; a side introduction with a reading column.

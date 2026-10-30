@@ -1,0 +1,2 @@
+A sports league page with a standings table (team, wins, losses, points).
+Brand: Cobalt Community League. Location: Portland, Maine. Visual direction: terracotta palette; an accent-colored introductory band.

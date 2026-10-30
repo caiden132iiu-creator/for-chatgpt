@@ -1,0 +1,2 @@
+A recipe website with recipe cards (image, title, cook time).
+Brand: Solstice Recipe Club. Location: Santa Fe, New Mexico. Visual direction: burgundy palette; a side introduction with a reading column.

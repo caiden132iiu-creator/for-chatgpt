@@ -1,0 +1,2 @@
+A full restaurant site: nav, hero, menu with prices, gallery, reservation form, footer.
+Brand: Cedar Restaurant. Location: Madison, Wisconsin. Visual direction: mustard palette; a wide opening with a compact masthead.

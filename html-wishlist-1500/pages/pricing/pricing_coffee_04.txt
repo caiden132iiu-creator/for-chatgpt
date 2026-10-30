@@ -1,0 +1,2 @@
+A coffee shop menu with drinks and pastries, each with a price.
+Brand: Willow Coffee House. Location: Flagstaff, Arizona. Visual direction: rust palette; a framed introduction and generous cards.

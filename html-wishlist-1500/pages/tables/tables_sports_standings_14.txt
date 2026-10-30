@@ -1,0 +1,2 @@
+A sports league page with a standings table (team, wins, losses, points).
+Brand: Solstice Community League. Location: Santa Fe, New Mexico. Visual direction: indigo palette; a side introduction with a reading column.

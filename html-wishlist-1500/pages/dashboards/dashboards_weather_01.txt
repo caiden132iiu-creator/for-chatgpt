@@ -1,0 +1,2 @@
+A weather app page with current weather and a 5-day forecast.
+Brand: Alder Weather. Location: Bend, Oregon. Visual direction: rose palette; a wide opening with a compact masthead.

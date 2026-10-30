@@ -1,0 +1,2 @@
+A blog homepage with a grid of article cards.
+Brand: Northstar Dispatch. Location: Eugene, Oregon. Visual direction: purple palette; a side introduction with a reading column.

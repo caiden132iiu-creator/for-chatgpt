@@ -1,0 +1,2 @@
+A train schedule with departure and arrival times.
+Brand: Cinder Rail Link. Location: Salem, Massachusetts. Visual direction: orange palette; an editorial introduction with a narrow side column.

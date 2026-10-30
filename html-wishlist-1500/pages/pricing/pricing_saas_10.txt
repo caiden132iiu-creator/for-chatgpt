@@ -1,0 +1,2 @@
+A software company with a pricing table of three plans (monthly prices, feature lists, highlighted middle plan).
+Brand: Kestrel Workspace. Location: Providence, Rhode Island. Visual direction: rust palette; a split introduction with a large image.

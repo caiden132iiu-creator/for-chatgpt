@@ -1,0 +1,2 @@
+A recipe website with recipe cards (image, title, cook time).
+Brand: Morrow Recipe Club. Location: Traverse City, Michigan. Visual direction: teal palette; a wide photographic or illustrated opening.

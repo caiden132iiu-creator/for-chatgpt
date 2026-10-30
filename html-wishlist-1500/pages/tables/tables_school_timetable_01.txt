@@ -1,0 +1,2 @@
+A school timetable for a week in a table.
+Brand: Alder Learning Academy. Location: Chattanooga, Tennessee. Visual direction: rust palette; a wide opening with a compact masthead.

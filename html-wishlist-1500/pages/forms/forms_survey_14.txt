@@ -1,0 +1,2 @@
+A survey page with radio buttons, checkboxes and a dropdown.
+Brand: Solstice Community Survey. Location: Eugene, Oregon. Visual direction: purple palette; a side introduction with a reading column.

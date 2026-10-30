@@ -1,0 +1,2 @@
+A bakery online order page listing cakes with prices and quantity buttons.
+Brand: Solstice Bakehouse. Location: Portland, Maine. Visual direction: forest palette; a side introduction with a reading column.

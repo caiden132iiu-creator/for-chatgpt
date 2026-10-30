@@ -1,0 +1,2 @@
+A full startup landing page: nav, hero, features grid, testimonials, pricing, FAQ, footer.
+Brand: Cobalt Flow. Location: Chattanooga, Tennessee. Visual direction: sage palette; an accent-colored introductory band.

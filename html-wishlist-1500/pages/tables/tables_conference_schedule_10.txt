@@ -1,0 +1,2 @@
+A conference schedule table with times, talks and rooms.
+Brand: Kestrel Developer Forum. Location: Richmond, Virginia. Visual direction: forest palette; a split introduction with a large image.

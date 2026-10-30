@@ -1,0 +1,2 @@
+A blog homepage with a grid of article cards.
+Brand: Kestrel Dispatch. Location: Bend, Oregon. Visual direction: rust palette; a split introduction with a large image.

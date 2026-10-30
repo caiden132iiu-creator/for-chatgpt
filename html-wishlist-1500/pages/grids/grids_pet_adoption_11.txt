@@ -1,0 +1,2 @@
+A pet adoption site with cards for each animal.
+Brand: Saffron Animal Rescue. Location: Flagstaff, Arizona. Visual direction: indigo palette; an editorial introduction with a narrow side column.

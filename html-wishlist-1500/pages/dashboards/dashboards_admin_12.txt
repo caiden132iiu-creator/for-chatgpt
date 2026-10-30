@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Bracken Operations. Location: Ann Arbor, Michigan. Visual direction: ocean palette; a framed introduction and generous cards.

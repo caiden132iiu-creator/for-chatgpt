@@ -1,0 +1,2 @@
+A surf school with lesson prices, a schedule table and a sign-up button.
+Brand: Kestrel Surf School. Location: Tacoma, Washington. Visual direction: rust palette; a split introduction with a large image.

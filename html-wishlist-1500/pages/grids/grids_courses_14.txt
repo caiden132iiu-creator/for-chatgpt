@@ -1,0 +1,2 @@
+A course catalogue with course cards, levels and prices.
+Brand: Solstice Learning. Location: Providence, Rhode Island. Visual direction: rust palette; a side introduction with a reading column.

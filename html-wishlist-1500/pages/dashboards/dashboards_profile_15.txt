@@ -1,0 +1,2 @@
+A user profile page with avatar, stats and activity feed.
+Brand: Wren Member. Location: Portland, Maine. Visual direction: ocean palette; a wide photographic or illustrated opening.

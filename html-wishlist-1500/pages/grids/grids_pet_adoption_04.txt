@@ -1,0 +1,2 @@
+A pet adoption site with cards for each animal.
+Brand: Willow Animal Rescue. Location: Portland, Maine. Visual direction: forest palette; a framed introduction and generous cards.

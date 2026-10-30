@@ -1,0 +1,2 @@
+A restaurant reservation form with date, time and party size.
+Brand: Harbor Kitchen. Location: Chattanooga, Tennessee. Visual direction: purple palette; a wide opening with a compact masthead.

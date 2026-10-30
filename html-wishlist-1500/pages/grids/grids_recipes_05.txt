@@ -1,0 +1,2 @@
+A recipe website with recipe cards (image, title, cook time).
+Brand: Copper Recipe Club. Location: Missoula, Montana. Visual direction: plum palette; an accent-colored introductory band.

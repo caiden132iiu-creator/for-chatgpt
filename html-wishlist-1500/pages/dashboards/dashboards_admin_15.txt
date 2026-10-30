@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Wren Operations. Location: Chattanooga, Tennessee. Visual direction: purple palette; a wide photographic or illustrated opening.

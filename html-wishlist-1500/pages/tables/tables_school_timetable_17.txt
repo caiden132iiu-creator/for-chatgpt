@@ -1,0 +1,2 @@
+A school timetable for a week in a table.
+Brand: Cedar Learning Academy. Location: Bellingham, Washington. Visual direction: rust palette; a wide opening with a compact masthead.

@@ -1,0 +1,2 @@
+A checkout page with shipping and payment fields.
+Brand: Solstice Supply Co.. Location: Portland, Maine. Visual direction: teal palette; a side introduction with a reading column.

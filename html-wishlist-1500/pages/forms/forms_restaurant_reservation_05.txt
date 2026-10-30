@@ -1,0 +1,2 @@
+A restaurant reservation form with date, time and party size.
+Brand: Copper Kitchen. Location: Bellingham, Washington. Visual direction: orange palette; an accent-colored introductory band.

@@ -1,0 +1,2 @@
+A sports league page with a standings table (team, wins, losses, points).
+Brand: Saffron Community League. Location: Madison, Wisconsin. Visual direction: ink palette; an editorial introduction with a narrow side column.

@@ -1,0 +1,2 @@
+A real estate site with a grid of property listings (price, beds, baths).
+Brand: Cedar Homes. Location: Flagstaff, Arizona. Visual direction: cobalt palette; a wide opening with a compact masthead.

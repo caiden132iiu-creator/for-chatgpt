@@ -1,0 +1,2 @@
+A full restaurant site: nav, hero, menu with prices, gallery, reservation form, footer.
+Brand: Harbor Restaurant. Location: Lancaster, Pennsylvania. Visual direction: forest palette; a wide opening with a compact masthead.

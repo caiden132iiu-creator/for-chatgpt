@@ -1,0 +1,11 @@
+{
+  "checker": "axe-core 4.10.3",
+  "scope": "One variant of every requested description; all eight shell layouts represented. WCAG 2 A/AA and 2.1 A/AA rule tags. Automated checks are not a full accessibility audit.",
+  "pages_checked": 89,
+  "pages_without_violations": 89,
+  "incomplete_checks": {
+    "color-contrast": 36
+  },
+  "errors": [],
+  "status": "passed"
+}

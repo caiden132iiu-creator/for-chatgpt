@@ -1,0 +1,2 @@
+A sports league page with a standings table (team, wins, losses, points).
+Brand: Alder Community League. Location: Boise, Idaho. Visual direction: plum palette; a wide opening with a compact masthead.

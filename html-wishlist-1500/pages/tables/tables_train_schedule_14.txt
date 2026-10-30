@@ -1,0 +1,2 @@
+A train schedule with departure and arrival times.
+Brand: Solstice Rail Link. Location: Richmond, Virginia. Visual direction: mustard palette; a side introduction with a reading column.

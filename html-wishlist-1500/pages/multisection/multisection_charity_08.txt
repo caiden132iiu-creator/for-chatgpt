@@ -1,0 +1,2 @@
+A full charity site: nav, mission, impact numbers, stories, donate form, footer.
+Brand: Clover Community Fund. Location: Tacoma, Washington. Visual direction: rust palette; a compact introduction with a strong vertical accent.

@@ -1,0 +1,2 @@
+A sports league page with a standings table (team, wins, losses, points).
+Brand: Copper Community League. Location: Missoula, Montana. Visual direction: ocean palette; an accent-colored introductory band.

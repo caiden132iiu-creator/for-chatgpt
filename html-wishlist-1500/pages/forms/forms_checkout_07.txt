@@ -1,0 +1,2 @@
+A checkout page with shipping and payment fields.
+Brand: Morrow Supply Co.. Location: Chattanooga, Tennessee. Visual direction: rust palette; a wide photographic or illustrated opening.

@@ -1,0 +1,2 @@
+A blog homepage with a grid of article cards.
+Brand: Wren Dispatch. Location: Richmond, Virginia. Visual direction: plum palette; a wide photographic or illustrated opening.

@@ -1,0 +1,2 @@
+A sports league page with a standings table (team, wins, losses, points).
+Brand: Tandem Community League. Location: Lancaster, Pennsylvania. Visual direction: forest palette; a wide photographic or illustrated opening.

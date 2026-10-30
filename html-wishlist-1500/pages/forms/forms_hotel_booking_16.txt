@@ -1,0 +1,2 @@
+A hotel booking form with dates, guests and room type.
+Brand: Meridian Lodge. Location: Missoula, Montana. Visual direction: teal palette; a compact introduction with a strong vertical accent.

@@ -1,0 +1,2 @@
+A weather app page with current weather and a 5-day forecast.
+Brand: Meridian Weather. Location: Traverse City, Michigan. Visual direction: ocean palette; a compact introduction with a strong vertical accent.

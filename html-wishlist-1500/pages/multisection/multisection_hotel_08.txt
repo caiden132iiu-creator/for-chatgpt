@@ -1,0 +1,2 @@
+A full hotel site: nav, hero, rooms with prices, amenities, reviews, booking form, footer.
+Brand: Clover Hotel. Location: Lancaster, Pennsylvania. Visual direction: plum palette; a compact introduction with a strong vertical accent.

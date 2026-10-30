@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Juniper Operations. Location: Portland, Maine. Visual direction: ink palette; a split introduction with a large image.

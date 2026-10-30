@@ -1,0 +1,2 @@
+A restaurant reservation form with date, time and party size.
+Brand: Morrow Kitchen. Location: Providence, Rhode Island. Visual direction: rose palette; a wide photographic or illustrated opening.

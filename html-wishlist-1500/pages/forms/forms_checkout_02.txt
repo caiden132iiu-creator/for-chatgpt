@@ -1,0 +1,2 @@
+A checkout page with shipping and payment fields.
+Brand: Juniper Supply Co.. Location: Richmond, Virginia. Visual direction: forest palette; a split introduction with a large image.

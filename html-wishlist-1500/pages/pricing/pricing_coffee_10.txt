@@ -1,0 +1,2 @@
+A coffee shop menu with drinks and pastries, each with a price.
+Brand: Kestrel Coffee House. Location: Chattanooga, Tennessee. Visual direction: cobalt palette; a split introduction with a large image.

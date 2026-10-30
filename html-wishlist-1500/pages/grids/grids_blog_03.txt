@@ -1,0 +1,2 @@
+A blog homepage with a grid of article cards.
+Brand: Cinder Dispatch. Location: Missoula, Montana. Visual direction: ocean palette; an editorial introduction with a narrow side column.

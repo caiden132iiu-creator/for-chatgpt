@@ -1,0 +1,2 @@
+A pet adoption site with cards for each animal.
+Brand: Linden Animal Rescue. Location: Bellingham, Washington. Visual direction: sage palette; an accent-colored introductory band.

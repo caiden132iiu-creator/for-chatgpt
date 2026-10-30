@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Saffron Operations. Location: Bellingham, Washington. Visual direction: orange palette; an editorial introduction with a narrow side column.

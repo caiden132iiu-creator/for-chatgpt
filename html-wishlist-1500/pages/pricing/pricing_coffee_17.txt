@@ -1,0 +1,2 @@
+A coffee shop menu with drinks and pastries, each with a price.
+Brand: Cedar Coffee House. Location: Portland, Maine. Visual direction: pink palette; a wide opening with a compact masthead.

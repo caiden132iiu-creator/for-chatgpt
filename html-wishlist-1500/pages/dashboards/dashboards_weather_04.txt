@@ -1,0 +1,2 @@
+A weather app page with current weather and a 5-day forecast.
+Brand: Willow Weather. Location: Duluth, Minnesota. Visual direction: pink palette; a framed introduction and generous cards.

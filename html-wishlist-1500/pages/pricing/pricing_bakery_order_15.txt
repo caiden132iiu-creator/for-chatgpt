@@ -1,0 +1,2 @@
+A bakery online order page listing cakes with prices and quantity buttons.
+Brand: Wren Bakehouse. Location: Asheville, North Carolina. Visual direction: purple palette; a wide photographic or illustrated opening.

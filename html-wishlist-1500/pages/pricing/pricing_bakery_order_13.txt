@@ -1,0 +1,2 @@
+A bakery online order page listing cakes with prices and quantity buttons.
+Brand: Linden Bakehouse. Location: Eugene, Oregon. Visual direction: rose palette; an accent-colored introductory band.

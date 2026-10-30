@@ -1,0 +1,2 @@
+A coffee shop menu with drinks and pastries, each with a price.
+Brand: Juniper Coffee House. Location: Santa Fe, New Mexico. Visual direction: burgundy palette; a split introduction with a large image.

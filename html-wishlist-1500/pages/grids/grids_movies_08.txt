@@ -1,0 +1,2 @@
+A movie streaming site with rows of movie posters.
+Brand: Clover Cinema. Location: Madison, Wisconsin. Visual direction: ocean palette; a compact introduction with a strong vertical accent. A dark background with light text.

@@ -1,0 +1,2 @@
+A fitness tracker dashboard with daily stats and a weekly progress list.
+Brand: Linden Movement. Location: Boise, Idaho. Visual direction: plum palette; an accent-colored introductory band.

@@ -1,0 +1,2 @@
+A survey page with radio buttons, checkboxes and a dropdown.
+Brand: Wren Community Survey. Location: Portland, Maine. Visual direction: pink palette; a wide photographic or illustrated opening.

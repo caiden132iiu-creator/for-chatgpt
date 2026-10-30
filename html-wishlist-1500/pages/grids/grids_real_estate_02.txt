@@ -1,0 +1,2 @@
+A real estate site with a grid of property listings (price, beds, baths).
+Brand: Juniper Homes. Location: Boise, Idaho. Visual direction: teal palette; a split introduction with a large image.

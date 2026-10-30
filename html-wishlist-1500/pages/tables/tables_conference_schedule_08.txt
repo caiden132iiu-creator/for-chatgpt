@@ -1,0 +1,2 @@
+A conference schedule table with times, talks and rooms.
+Brand: Clover Developer Forum. Location: Duluth, Minnesota. Visual direction: ocean palette; a compact introduction with a strong vertical accent.

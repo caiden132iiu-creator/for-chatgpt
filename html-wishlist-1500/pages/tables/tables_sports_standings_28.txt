@@ -1,0 +1,2 @@
+A sports league page with a standings table (team, wins, losses, points).
+Brand: Hearth Community League. Location: Eugene, Oregon. Visual direction: rust palette; a framed introduction and generous cards.

@@ -1,0 +1,2 @@
+A hotel booking form with dates, guests and room type.
+Brand: Solstice Lodge. Location: Lancaster, Pennsylvania. Visual direction: plum palette; a side introduction with a reading column.

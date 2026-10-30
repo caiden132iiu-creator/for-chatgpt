@@ -1,0 +1,2 @@
+An image slider with next and previous buttons.
+Brand: Harbor Photo Stories. Location: Asheville, North Carolina. Visual direction: rust palette; a wide opening with a compact masthead.

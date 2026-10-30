@@ -1,0 +1,2 @@
+A travel site with destination cards and prices.
+Brand: Linden Journeys. Location: Richmond, Virginia. Visual direction: ocean palette; an accent-colored introductory band.

@@ -1,0 +1,2 @@
+A bakery online order page listing cakes with prices and quantity buttons.
+Brand: Cinder Bakehouse. Location: Bellingham, Washington. Visual direction: rust palette; an editorial introduction with a narrow side column.

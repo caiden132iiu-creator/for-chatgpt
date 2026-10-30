@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Birch Operations. Location: Richmond, Virginia. Visual direction: forest palette; a side introduction with a reading column.

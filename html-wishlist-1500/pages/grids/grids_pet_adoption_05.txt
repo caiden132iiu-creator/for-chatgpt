@@ -1,0 +1,2 @@
+A pet adoption site with cards for each animal.
+Brand: Copper Animal Rescue. Location: Asheville, North Carolina. Visual direction: purple palette; an accent-colored introductory band.

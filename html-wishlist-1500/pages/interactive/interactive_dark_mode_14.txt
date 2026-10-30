@@ -1,0 +1,2 @@
+A dark mode toggle button that switches the page colours.
+Brand: Solstice Reading Room. Location: Flagstaff, Arizona. Visual direction: rust palette; a side introduction with a reading column.

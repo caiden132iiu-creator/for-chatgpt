@@ -1,0 +1,2 @@
+A sports league page with a standings table (team, wins, losses, points).
+Brand: Lumen Community League. Location: Missoula, Montana. Visual direction: pink palette; a wide opening with a compact masthead.

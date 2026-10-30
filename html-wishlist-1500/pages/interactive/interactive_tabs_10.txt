@@ -1,0 +1,2 @@
+A page with tabs that switch between sections.
+Brand: Kestrel Field Guide. Location: Eugene, Oregon. Visual direction: rust palette; a split introduction with a large image.

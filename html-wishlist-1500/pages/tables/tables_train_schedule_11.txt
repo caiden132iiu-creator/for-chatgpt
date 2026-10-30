@@ -1,0 +1,2 @@
+A train schedule with departure and arrival times.
+Brand: Saffron Rail Link. Location: Santa Fe, New Mexico. Visual direction: rust palette; an editorial introduction with a narrow side column.

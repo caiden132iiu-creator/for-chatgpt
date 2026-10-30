@@ -1,0 +1,2 @@
+A hair salon price list grouped by service.
+Brand: Linden Hair Studio. Location: Asheville, North Carolina. Visual direction: rust palette; an accent-colored introductory band.

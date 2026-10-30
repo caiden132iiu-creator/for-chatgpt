@@ -1,0 +1,2 @@
+A hotel booking form with dates, guests and room type.
+Brand: Juniper Lodge. Location: Madison, Wisconsin. Visual direction: ocean palette; a split introduction with a large image.

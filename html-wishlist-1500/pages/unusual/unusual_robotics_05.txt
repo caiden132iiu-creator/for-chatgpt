@@ -1,0 +1,2 @@
+A robotics lab with projects, team cards and a contact form.
+Brand: Copper Robotics. Location: Bellingham, Washington. Visual direction: rust palette; an accent-colored introductory band.

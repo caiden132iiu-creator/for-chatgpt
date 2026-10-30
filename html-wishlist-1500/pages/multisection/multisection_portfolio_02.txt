@@ -1,0 +1,2 @@
+A full portfolio: nav, about, skills list, project gallery, testimonials, contact form.
+Brand: Juniper Design Portfolio. Location: Providence, Rhode Island. Visual direction: rust palette; a split introduction with a large image.

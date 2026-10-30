@@ -1,0 +1,2 @@
+A hotel booking form with dates, guests and room type.
+Brand: Copper Lodge. Location: Santa Fe, New Mexico. Visual direction: purple palette; an accent-colored introductory band.

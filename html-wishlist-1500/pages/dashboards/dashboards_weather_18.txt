@@ -1,0 +1,2 @@
+A weather app page with current weather and a 5-day forecast.
+Brand: Fable Weather. Location: Portland, Maine. Visual direction: forest palette; a split introduction with a large image.

@@ -1,0 +1,28 @@
+{
+  "pages_checked": 1500,
+  "paired_descriptions_checked": 1500,
+  "requested_counts_matched": true,
+  "unique_html_hashes": 1500,
+  "unique_visible_text_hashes": 1500,
+  "distinct_dom_and_class_structures": 1040,
+  "smallest_structural_variety_within_a_topic": 8,
+  "element_count": {
+    "min": 49,
+    "median": 127.0,
+    "max": 266
+  },
+  "inline_javascript_characters": {
+    "min": 235,
+    "median": 851.0,
+    "max": 4395
+  },
+  "features": {
+    "tables": 425,
+    "forms": 1000,
+    "photos": 1282,
+    "inline_illustrations": 2657,
+    "javascript_pages": 1200
+  },
+  "errors": [],
+  "status": "passed"
+}

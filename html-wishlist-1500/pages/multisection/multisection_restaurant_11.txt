@@ -1,0 +1,2 @@
+A full restaurant site: nav, hero, menu with prices, gallery, reservation form, footer.
+Brand: Saffron Restaurant. Location: Missoula, Montana. Visual direction: pink palette; an editorial introduction with a narrow side column.

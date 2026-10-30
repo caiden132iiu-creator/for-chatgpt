@@ -1,0 +1,2 @@
+A bakery online order page listing cakes with prices and quantity buttons.
+Brand: Alder Bakehouse. Location: Flagstaff, Arizona. Visual direction: burgundy palette; a wide opening with a compact masthead.

@@ -1,0 +1,2 @@
+A sports league page with a standings table (team, wins, losses, points).
+Brand: Peregrine Community League. Location: Ann Arbor, Michigan. Visual direction: teal palette; an editorial introduction with a narrow side column.

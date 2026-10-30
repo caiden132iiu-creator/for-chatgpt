@@ -1,0 +1,2 @@
+A bakery online order page listing cakes with prices and quantity buttons.
+Brand: Juniper Bakehouse. Location: Richmond, Virginia. Visual direction: ink palette; a split introduction with a large image.

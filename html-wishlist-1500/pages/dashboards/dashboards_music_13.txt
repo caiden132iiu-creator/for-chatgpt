@@ -1,0 +1,2 @@
+A music player page with a playlist and now-playing card.
+Brand: Linden Music. Location: Salem, Massachusetts. Visual direction: purple palette; an accent-colored introductory band.

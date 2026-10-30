@@ -1,0 +1,2 @@
+A contact page with a full form (name, email, subject, message, send button).
+Brand: Hearth Studio. Location: Flagstaff, Arizona. Visual direction: orange palette; a framed introduction and generous cards.

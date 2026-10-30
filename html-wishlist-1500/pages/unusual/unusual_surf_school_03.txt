@@ -1,0 +1,2 @@
+A surf school with lesson prices, a schedule table and a sign-up button.
+Brand: Cinder Surf School. Location: Richmond, Virginia. Visual direction: ocean palette; an editorial introduction with a narrow side column.

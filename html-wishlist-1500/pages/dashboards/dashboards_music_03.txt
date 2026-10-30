@@ -1,0 +1,2 @@
+A music player page with a playlist and now-playing card.
+Brand: Cinder Music. Location: Flagstaff, Arizona. Visual direction: indigo palette; an editorial introduction with a narrow side column.

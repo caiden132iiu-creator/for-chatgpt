@@ -1,0 +1,2 @@
+A sports league page with a standings table (team, wins, losses, points).
+Brand: Slate Community League. Location: Boise, Idaho. Visual direction: ocean palette; an accent-colored introductory band.

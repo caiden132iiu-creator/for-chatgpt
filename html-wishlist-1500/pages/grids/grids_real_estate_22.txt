@@ -1,0 +1,2 @@
+A real estate site with a grid of property listings (price, beds, baths).
+Brand: Orchard Homes. Location: Boise, Idaho. Visual direction: forest palette; a side introduction with a reading column.

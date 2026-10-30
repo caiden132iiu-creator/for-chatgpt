@@ -1,0 +1,2 @@
+A recipe website with recipe cards (image, title, cook time).
+Brand: Meridian Recipe Club. Location: Flagstaff, Arizona. Visual direction: rust palette; a compact introduction with a strong vertical accent.

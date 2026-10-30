@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Morrow Operations. Location: Santa Fe, New Mexico. Visual direction: sage palette; a wide photographic or illustrated opening.

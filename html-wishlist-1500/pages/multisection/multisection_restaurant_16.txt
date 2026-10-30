@@ -1,0 +1,2 @@
+A full restaurant site: nav, hero, menu with prices, gallery, reservation form, footer.
+Brand: Meridian Restaurant. Location: Asheville, North Carolina. Visual direction: indigo palette; a compact introduction with a strong vertical accent.

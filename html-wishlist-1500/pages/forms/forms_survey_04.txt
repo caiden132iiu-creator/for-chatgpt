@@ -1,0 +1,2 @@
+A survey page with radio buttons, checkboxes and a dropdown.
+Brand: Willow Community Survey. Location: Bellingham, Washington. Visual direction: indigo palette; a framed introduction and generous cards.

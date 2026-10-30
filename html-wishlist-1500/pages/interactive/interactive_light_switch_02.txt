@@ -1,0 +1,2 @@
+A light switch / toggle demo page.
+Brand: Juniper Light Lab. Location: Eugene, Oregon. Visual direction: rust palette; a split introduction with a large image.

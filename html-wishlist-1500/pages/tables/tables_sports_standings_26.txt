@@ -1,0 +1,2 @@
+A sports league page with a standings table (team, wins, losses, points).
+Brand: Rowan Community League. Location: Salem, Massachusetts. Visual direction: burgundy palette; a split introduction with a large image.

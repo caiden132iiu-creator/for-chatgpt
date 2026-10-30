@@ -1,0 +1,2 @@
+A weather app page with current weather and a 5-day forecast.
+Brand: Juniper Weather. Location: Burlington, Vermont. Visual direction: forest palette; a split introduction with a large image.

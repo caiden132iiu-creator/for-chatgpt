@@ -1,0 +1,2 @@
+A music player page with a playlist and now-playing card.
+Brand: Alder Music. Location: Santa Fe, New Mexico. Visual direction: rust palette; a wide opening with a compact masthead.

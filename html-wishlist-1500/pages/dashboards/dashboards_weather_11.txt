@@ -1,0 +1,2 @@
+A weather app page with current weather and a 5-day forecast.
+Brand: Saffron Weather. Location: Chattanooga, Tennessee. Visual direction: sage palette; an editorial introduction with a narrow side column.

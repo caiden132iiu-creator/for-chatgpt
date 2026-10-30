@@ -1,0 +1,2 @@
+A coffee shop menu with drinks and pastries, each with a price.
+Brand: Solstice Coffee House. Location: Salem, Massachusetts. Visual direction: rose palette; a side introduction with a reading column.

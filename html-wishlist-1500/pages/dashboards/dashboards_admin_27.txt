@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Sundial Operations. Location: Santa Fe, New Mexico. Visual direction: orange palette; an editorial introduction with a narrow side column.

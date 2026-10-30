@@ -1,0 +1,2 @@
+A personal finance dashboard with balance, spending categories and transactions.
+Brand: Cinder Money. Location: Bend, Oregon. Visual direction: cobalt palette; an editorial introduction with a narrow side column.

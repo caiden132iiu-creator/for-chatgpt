@@ -1,0 +1,2 @@
+A pet adoption site with cards for each animal.
+Brand: Bracken Animal Rescue. Location: Richmond, Virginia. Visual direction: mustard palette; a framed introduction and generous cards.

@@ -1,0 +1,2 @@
+A restaurant reservation form with date, time and party size.
+Brand: Marigold Kitchen. Location: Burlington, Vermont. Visual direction: teal palette; a framed introduction and generous cards.

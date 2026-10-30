@@ -1,0 +1,2 @@
+A pizza restaurant menu with sizes and prices per pizza.
+Brand: Juniper Pizza Kitchen. Location: Providence, Rhode Island. Visual direction: rust palette; a split introduction with a large image.

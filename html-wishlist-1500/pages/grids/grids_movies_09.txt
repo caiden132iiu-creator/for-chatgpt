@@ -1,0 +1,2 @@
+A movie streaming site with rows of movie posters.
+Brand: Harbor Cinema. Location: Bend, Oregon. Visual direction: rose palette; a wide opening with a compact masthead.

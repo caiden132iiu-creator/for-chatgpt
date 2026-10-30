@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Hearth Operations. Location: Duluth, Minnesota. Visual direction: ocean palette; a framed introduction and generous cards.

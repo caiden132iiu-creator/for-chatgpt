@@ -1,0 +1,2 @@
+A real estate site with a grid of property listings (price, beds, baths).
+Brand: Clover Homes. Location: Traverse City, Michigan. Visual direction: pink palette; a compact introduction with a strong vertical accent.

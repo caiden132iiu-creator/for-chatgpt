@@ -1,0 +1,2 @@
+A full restaurant site: nav, hero, menu with prices, gallery, reservation form, footer.
+Brand: Wren Restaurant. Location: Portland, Maine. Visual direction: terracotta palette; a wide photographic or illustrated opening.

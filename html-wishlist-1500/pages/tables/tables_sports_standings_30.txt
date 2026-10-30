@@ -1,0 +1,2 @@
+A sports league page with a standings table (team, wins, losses, points).
+Brand: Birch Community League. Location: Asheville, North Carolina. Visual direction: indigo palette; a side introduction with a reading column.

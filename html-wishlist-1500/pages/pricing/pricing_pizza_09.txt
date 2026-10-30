@@ -1,0 +1,2 @@
+A pizza restaurant menu with sizes and prices per pizza.
+Brand: Harbor Pizza Kitchen. Location: Traverse City, Michigan. Visual direction: teal palette; a wide opening with a compact masthead.

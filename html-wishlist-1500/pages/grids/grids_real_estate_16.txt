@@ -1,0 +1,2 @@
+A real estate site with a grid of property listings (price, beds, baths).
+Brand: Meridian Homes. Location: Duluth, Minnesota. Visual direction: plum palette; a compact introduction with a strong vertical accent.

@@ -1,0 +1,2 @@
+A hotel booking form with dates, guests and room type.
+Brand: Morrow Lodge. Location: Flagstaff, Arizona. Visual direction: burgundy palette; a wide photographic or illustrated opening.

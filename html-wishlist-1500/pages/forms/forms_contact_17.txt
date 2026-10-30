@@ -1,0 +1,2 @@
+A contact page with a full form (name, email, subject, message, send button).
+Brand: Cedar Studio. Location: Missoula, Montana. Visual direction: pink palette; a wide opening with a compact masthead.

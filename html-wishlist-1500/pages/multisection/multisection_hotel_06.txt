@@ -1,0 +1,2 @@
+A full hotel site: nav, hero, rooms with prices, amenities, reviews, booking form, footer.
+Brand: Northstar Hotel. Location: Boise, Idaho. Visual direction: mustard palette; a side introduction with a reading column.

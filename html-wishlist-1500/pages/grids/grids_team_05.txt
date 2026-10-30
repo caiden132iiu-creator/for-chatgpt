@@ -1,0 +1,2 @@
+A team page with staff cards (photo, name, role).
+Brand: Copper Studio Team. Location: Salem, Massachusetts. Visual direction: rust palette; an accent-colored introductory band.

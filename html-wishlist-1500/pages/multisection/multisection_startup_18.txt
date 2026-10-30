@@ -1,0 +1,2 @@
+A full startup landing page: nav, hero, features grid, testimonials, pricing, FAQ, footer.
+Brand: Fable Flow. Location: Madison, Wisconsin. Visual direction: ocean palette; a split introduction with a large image.

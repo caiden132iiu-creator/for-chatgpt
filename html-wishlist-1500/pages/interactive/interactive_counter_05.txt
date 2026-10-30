@@ -1,0 +1,2 @@
+A click counter page with a big button and a score display.
+Brand: Copper Click Lab. Location: Providence, Rhode Island. Visual direction: rose palette; an accent-colored introductory band.

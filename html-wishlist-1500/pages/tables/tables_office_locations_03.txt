@@ -1,0 +1,2 @@
+A company page with a table of office locations, phones and hours.
+Brand: Cinder Collective. Location: Eugene, Oregon. Visual direction: burgundy palette; an editorial introduction with a narrow side column.

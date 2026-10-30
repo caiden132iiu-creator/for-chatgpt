@@ -1,0 +1,2 @@
+A full hotel site: nav, hero, rooms with prices, amenities, reviews, booking form, footer.
+Brand: Cedar Hotel. Location: Bend, Oregon. Visual direction: burgundy palette; a wide opening with a compact masthead.

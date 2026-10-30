@@ -1,0 +1,2 @@
+A weather app page with current weather and a 5-day forecast.
+Brand: Bracken Weather. Location: Lancaster, Pennsylvania. Visual direction: plum palette; a framed introduction and generous cards.

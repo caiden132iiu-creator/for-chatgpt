@@ -1,0 +1,2 @@
+A real estate site with a grid of property listings (price, beds, baths).
+Brand: Bracken Homes. Location: Madison, Wisconsin. Visual direction: terracotta palette; a framed introduction and generous cards.

@@ -1,0 +1,2 @@
+A restaurant reservation form with date, time and party size.
+Brand: Clover Kitchen. Location: Boise, Idaho. Visual direction: forest palette; a compact introduction with a strong vertical accent.

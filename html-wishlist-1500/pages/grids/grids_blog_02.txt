@@ -1,0 +1,2 @@
+A blog homepage with a grid of article cards.
+Brand: Juniper Dispatch. Location: Tacoma, Washington. Visual direction: orange palette; a split introduction with a large image.

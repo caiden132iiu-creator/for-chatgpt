@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Meridian Operations. Location: Lancaster, Pennsylvania. Visual direction: pink palette; a compact introduction with a strong vertical accent.

@@ -1,0 +1,2 @@
+A pet adoption site with cards for each animal.
+Brand: Peregrine Animal Rescue. Location: Tacoma, Washington. Visual direction: rose palette; an editorial introduction with a narrow side column.

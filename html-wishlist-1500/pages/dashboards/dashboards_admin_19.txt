@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Peregrine Operations. Location: Salem, Massachusetts. Visual direction: rust palette; an editorial introduction with a narrow side column.

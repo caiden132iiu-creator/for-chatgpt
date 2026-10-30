@@ -1,0 +1,2 @@
+A contact page with a full form (name, email, subject, message, send button).
+Brand: Fable Studio. Location: Salem, Massachusetts. Visual direction: burgundy palette; a split introduction with a large image.

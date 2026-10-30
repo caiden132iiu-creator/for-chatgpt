@@ -1,0 +1,2 @@
+A weather app page with current weather and a 5-day forecast.
+Brand: Marigold Weather. Location: Madison, Wisconsin. Visual direction: pink palette; a framed introduction and generous cards.

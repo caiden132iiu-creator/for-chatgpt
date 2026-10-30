@@ -1,0 +1,2 @@
+A recipe website with recipe cards (image, title, cook time).
+Brand: Saffron Recipe Club. Location: Madison, Wisconsin. Visual direction: forest palette; an editorial introduction with a narrow side column.

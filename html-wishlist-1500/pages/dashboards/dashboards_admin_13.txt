@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Linden Operations. Location: Providence, Rhode Island. Visual direction: rose palette; an accent-colored introductory band.

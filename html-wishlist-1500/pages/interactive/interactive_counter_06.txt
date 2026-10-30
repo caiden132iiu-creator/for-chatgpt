@@ -1,0 +1,2 @@
+A click counter page with a big button and a score display.
+Brand: Northstar Click Lab. Location: Boise, Idaho. Visual direction: forest palette; a side introduction with a reading column.

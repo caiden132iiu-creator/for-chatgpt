@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Cinder Operations. Location: Asheville, North Carolina. Visual direction: rust palette; an editorial introduction with a narrow side column.

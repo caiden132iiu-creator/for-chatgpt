@@ -1,0 +1,2 @@
+A hotel booking form with dates, guests and room type.
+Brand: Saffron Lodge. Location: Providence, Rhode Island. Visual direction: indigo palette; an editorial introduction with a narrow side column.

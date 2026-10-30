@@ -1,0 +1,2 @@
+A quiz with multiple-choice questions and a score at the end.
+Brand: Wren Quiz Club. Location: Santa Fe, New Mexico. Visual direction: rust palette; a wide photographic or illustrated opening.

@@ -1,0 +1,2 @@
+A drone racing league with standings table and events.
+Brand: Cinder Drone League. Location: Salem, Massachusetts. Visual direction: purple palette; an editorial introduction with a narrow side column.

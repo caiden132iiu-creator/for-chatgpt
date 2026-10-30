@@ -1,0 +1,2 @@
+A restaurant reservation form with date, time and party size.
+Brand: Saffron Kitchen. Location: Tacoma, Washington. Visual direction: burgundy palette; an editorial introduction with a narrow side column.

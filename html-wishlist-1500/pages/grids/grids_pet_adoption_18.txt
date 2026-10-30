@@ -1,0 +1,2 @@
+A pet adoption site with cards for each animal.
+Brand: Fable Animal Rescue. Location: Lancaster, Pennsylvania. Visual direction: ocean palette; a split introduction with a large image.

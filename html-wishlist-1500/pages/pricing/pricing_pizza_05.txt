@@ -1,0 +1,2 @@
+A pizza restaurant menu with sizes and prices per pizza.
+Brand: Copper Pizza Kitchen. Location: Lancaster, Pennsylvania. Visual direction: mustard palette; an accent-colored introductory band.

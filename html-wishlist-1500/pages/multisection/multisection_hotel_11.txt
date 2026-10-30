@@ -1,0 +1,2 @@
+A full hotel site: nav, hero, rooms with prices, amenities, reviews, booking form, footer.
+Brand: Saffron Hotel. Location: Salem, Massachusetts. Visual direction: orange palette; an editorial introduction with a narrow side column.

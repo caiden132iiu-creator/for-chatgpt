@@ -1,0 +1,2 @@
+A real estate site with a grid of property listings (price, beds, baths).
+Brand: Cinder Homes. Location: Chattanooga, Tennessee. Visual direction: orange palette; an editorial introduction with a narrow side column.

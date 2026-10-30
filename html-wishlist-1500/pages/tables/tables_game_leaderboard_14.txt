@@ -1,0 +1,2 @@
+A leaderboard for a video game with ranks, players and scores.
+Brand: Solstice Arena. Location: Providence, Rhode Island. Visual direction: sage palette; a side introduction with a reading column.

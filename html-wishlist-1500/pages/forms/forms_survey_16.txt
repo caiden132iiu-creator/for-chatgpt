@@ -1,0 +1,2 @@
+A survey page with radio buttons, checkboxes and a dropdown.
+Brand: Meridian Community Survey. Location: Asheville, North Carolina. Visual direction: burgundy palette; a compact introduction with a strong vertical accent.

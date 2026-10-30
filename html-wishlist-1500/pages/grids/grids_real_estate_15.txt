@@ -1,0 +1,2 @@
+A real estate site with a grid of property listings (price, beds, baths).
+Brand: Wren Homes. Location: Santa Fe, New Mexico. Visual direction: sage palette; a wide photographic or illustrated opening.

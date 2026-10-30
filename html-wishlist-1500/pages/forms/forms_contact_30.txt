@@ -1,0 +1,2 @@
+A contact page with a full form (name, email, subject, message, send button).
+Brand: Birch Studio. Location: Bellingham, Washington. Visual direction: rose palette; a side introduction with a reading column.

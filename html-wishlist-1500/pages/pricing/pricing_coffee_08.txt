@@ -1,0 +1,2 @@
+A coffee shop menu with drinks and pastries, each with a price.
+Brand: Clover Coffee House. Location: Providence, Rhode Island. Visual direction: sage palette; a compact introduction with a strong vertical accent.

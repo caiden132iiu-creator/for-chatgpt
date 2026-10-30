@@ -1,0 +1,2 @@
+A full restaurant site: nav, hero, menu with prices, gallery, reservation form, footer.
+Brand: Cinder Restaurant. Location: Richmond, Virginia. Visual direction: plum palette; an editorial introduction with a narrow side column.

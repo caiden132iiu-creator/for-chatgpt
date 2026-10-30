@@ -1,0 +1,2 @@
+A movie streaming site with rows of movie posters.
+Brand: Bracken Cinema. Location: Duluth, Minnesota. Visual direction: pink palette; a framed introduction and generous cards. A dark background with light text.

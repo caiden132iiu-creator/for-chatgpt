@@ -1,0 +1,2 @@
+A contact page with a full form (name, email, subject, message, send button).
+Brand: Copper Studio. Location: Burlington, Vermont. Visual direction: terracotta palette; an accent-colored introductory band.

@@ -1,0 +1,2 @@
+An online store homepage with a grid of 6 to 9 product cards.
+Brand: Ember Market. Location: Burlington, Vermont. Visual direction: mustard palette; a framed introduction and generous cards.

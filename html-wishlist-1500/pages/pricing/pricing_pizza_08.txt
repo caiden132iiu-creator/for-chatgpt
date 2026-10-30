@@ -1,0 +1,2 @@
+A pizza restaurant menu with sizes and prices per pizza.
+Brand: Clover Pizza Kitchen. Location: Salem, Massachusetts. Visual direction: cobalt palette; a compact introduction with a strong vertical accent.

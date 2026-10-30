@@ -1,0 +1,2 @@
+A movie streaming site with rows of movie posters.
+Brand: Copper Cinema. Location: Eugene, Oregon. Visual direction: cobalt palette; an accent-colored introductory band.

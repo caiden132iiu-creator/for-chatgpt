@@ -1,0 +1,2 @@
+A conference schedule table with times, talks and rooms.
+Brand: Juniper Developer Forum. Location: Portland, Maine. Visual direction: mustard palette; a split introduction with a large image.

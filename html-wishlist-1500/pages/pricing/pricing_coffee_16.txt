@@ -1,0 +1,2 @@
+A coffee shop menu with drinks and pastries, each with a price.
+Brand: Meridian Coffee House. Location: Eugene, Oregon. Visual direction: purple palette; a compact introduction with a strong vertical accent.

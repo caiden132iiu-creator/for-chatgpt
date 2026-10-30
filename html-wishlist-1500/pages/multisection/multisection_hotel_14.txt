@@ -1,0 +1,2 @@
+A full hotel site: nav, hero, rooms with prices, amenities, reviews, booking form, footer.
+Brand: Solstice Hotel. Location: Portland, Maine. Visual direction: forest palette; a side introduction with a reading column.

@@ -1,0 +1,2 @@
+A hotel booking form with dates, guests and room type.
+Brand: Cedar Lodge. Location: Salem, Massachusetts. Visual direction: orange palette; a wide opening with a compact masthead.

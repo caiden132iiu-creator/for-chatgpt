@@ -1,0 +1,2 @@
+A full restaurant site: nav, hero, menu with prices, gallery, reservation form, footer.
+Brand: Morrow Restaurant. Location: Boise, Idaho. Visual direction: ocean palette; a wide photographic or illustrated opening.

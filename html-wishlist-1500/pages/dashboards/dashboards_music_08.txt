@@ -1,0 +1,2 @@
+A music player page with a playlist and now-playing card.
+Brand: Clover Music. Location: Boise, Idaho. Visual direction: teal palette; a compact introduction with a strong vertical accent. A dark background with light text.

@@ -1,0 +1,2 @@
+A train schedule with departure and arrival times.
+Brand: Juniper Rail Link. Location: Missoula, Montana. Visual direction: teal palette; a split introduction with a large image.

@@ -1,0 +1,2 @@
+A full hotel site: nav, hero, rooms with prices, amenities, reviews, booking form, footer.
+Brand: Alder Hotel. Location: Flagstaff, Arizona. Visual direction: burgundy palette; a wide opening with a compact masthead.

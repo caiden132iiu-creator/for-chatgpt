@@ -1,0 +1,2 @@
+A pizza restaurant menu with sizes and prices per pizza.
+Brand: Kestrel Pizza Kitchen. Location: Eugene, Oregon. Visual direction: orange palette; a split introduction with a large image.

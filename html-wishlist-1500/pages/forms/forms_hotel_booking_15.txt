@@ -1,0 +1,2 @@
+A hotel booking form with dates, guests and room type.
+Brand: Wren Lodge. Location: Tacoma, Washington. Visual direction: cobalt palette; a wide photographic or illustrated opening.

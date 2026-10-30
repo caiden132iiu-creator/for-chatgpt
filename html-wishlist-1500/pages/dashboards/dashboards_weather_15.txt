@@ -1,0 +1,2 @@
+A weather app page with current weather and a 5-day forecast.
+Brand: Wren Weather. Location: Salem, Massachusetts. Visual direction: orange palette; a wide photographic or illustrated opening.

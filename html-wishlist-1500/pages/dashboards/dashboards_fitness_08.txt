@@ -1,0 +1,2 @@
+A fitness tracker dashboard with daily stats and a weekly progress list.
+Brand: Clover Movement. Location: Flagstaff, Arizona. Visual direction: rust palette; a compact introduction with a strong vertical accent.

@@ -1,0 +1,2 @@
+A recipe website with recipe cards (image, title, cook time).
+Brand: Clover Recipe Club. Location: Eugene, Oregon. Visual direction: orange palette; a compact introduction with a strong vertical accent.

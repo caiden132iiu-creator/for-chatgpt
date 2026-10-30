@@ -1,0 +1,2 @@
+A fitness tracker dashboard with daily stats and a weekly progress list.
+Brand: Northstar Movement. Location: Santa Fe, New Mexico. Visual direction: burgundy palette; a side introduction with a reading column.

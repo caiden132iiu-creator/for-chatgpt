@@ -1,0 +1,2 @@
+A blog homepage with a grid of article cards.
+Brand: Cedar Dispatch. Location: Ann Arbor, Michigan. Visual direction: teal palette; a wide opening with a compact masthead.

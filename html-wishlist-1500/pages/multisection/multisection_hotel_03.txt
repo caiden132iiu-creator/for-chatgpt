@@ -1,0 +1,2 @@
+A full hotel site: nav, hero, rooms with prices, amenities, reviews, booking form, footer.
+Brand: Cinder Hotel. Location: Bellingham, Washington. Visual direction: rust palette; an editorial introduction with a narrow side column.

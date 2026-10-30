@@ -1,0 +1,2 @@
+A recipe website with recipe cards (image, title, cook time).
+Brand: Kestrel Recipe Club. Location: Asheville, North Carolina. Visual direction: rose palette; a split introduction with a large image.

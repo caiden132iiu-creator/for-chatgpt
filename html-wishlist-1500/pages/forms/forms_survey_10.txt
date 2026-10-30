@@ -1,0 +1,2 @@
+A survey page with radio buttons, checkboxes and a dropdown.
+Brand: Kestrel Community Survey. Location: Tacoma, Washington. Visual direction: orange palette; a split introduction with a large image.

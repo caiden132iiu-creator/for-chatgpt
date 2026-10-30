@@ -1,0 +1,625 @@
+[
+  {
+    "topic_id": 1,
+    "category": "pricing",
+    "key": "saas",
+    "description": "a software company with a pricing table of three plans (monthly prices, feature lists, highlighted middle plan)",
+    "requested": 40
+  },
+  {
+    "topic_id": 2,
+    "category": "pricing",
+    "key": "gym",
+    "description": "a gym with membership plans and prices, a class list and a sign-up form",
+    "requested": 25
+  },
+  {
+    "topic_id": 3,
+    "category": "pricing",
+    "key": "coffee",
+    "description": "a coffee shop menu with drinks and pastries, each with a price",
+    "requested": 25
+  },
+  {
+    "topic_id": 4,
+    "category": "pricing",
+    "key": "hosting",
+    "description": "a web hosting company comparing basic, pro and business plans in a table",
+    "requested": 20
+  },
+  {
+    "topic_id": 5,
+    "category": "pricing",
+    "key": "carwash",
+    "description": "a car wash with service packages, prices and a booking button",
+    "requested": 15
+  },
+  {
+    "topic_id": 6,
+    "category": "pricing",
+    "key": "bakery_order",
+    "description": "a bakery online order page listing cakes with prices and quantity buttons",
+    "requested": 15
+  },
+  {
+    "topic_id": 7,
+    "category": "pricing",
+    "key": "streaming",
+    "description": "a streaming service with a free, standard and premium plan",
+    "requested": 15
+  },
+  {
+    "topic_id": 8,
+    "category": "pricing",
+    "key": "salon",
+    "description": "a hair salon price list grouped by service",
+    "requested": 15
+  },
+  {
+    "topic_id": 9,
+    "category": "pricing",
+    "key": "pizza",
+    "description": "a pizza restaurant menu with sizes and prices per pizza",
+    "requested": 15
+  },
+  {
+    "topic_id": 10,
+    "category": "pricing",
+    "key": "dog_grooming",
+    "description": "a dog grooming salon with three service cards with prices",
+    "requested": 15
+  },
+  {
+    "topic_id": 11,
+    "category": "tables",
+    "key": "sports_standings",
+    "description": "a sports league page with a standings table (team, wins, losses, points)",
+    "requested": 30
+  },
+  {
+    "topic_id": 12,
+    "category": "tables",
+    "key": "school_timetable",
+    "description": "a school timetable for a week in a table",
+    "requested": 20
+  },
+  {
+    "topic_id": 13,
+    "category": "tables",
+    "key": "laptop_comparison",
+    "description": "a product comparison table of three laptops with specs",
+    "requested": 20
+  },
+  {
+    "topic_id": 14,
+    "category": "tables",
+    "key": "train_schedule",
+    "description": "a train schedule with departure and arrival times",
+    "requested": 20
+  },
+  {
+    "topic_id": 15,
+    "category": "tables",
+    "key": "nutrition",
+    "description": "a nutrition facts page with a table of foods and calories",
+    "requested": 15
+  },
+  {
+    "topic_id": 16,
+    "category": "tables",
+    "key": "office_locations",
+    "description": "a company page with a table of office locations, phones and hours",
+    "requested": 15
+  },
+  {
+    "topic_id": 17,
+    "category": "tables",
+    "key": "game_leaderboard",
+    "description": "a leaderboard for a video game with ranks, players and scores",
+    "requested": 15
+  },
+  {
+    "topic_id": 18,
+    "category": "tables",
+    "key": "conference_schedule",
+    "description": "a conference schedule table with times, talks and rooms",
+    "requested": 15
+  },
+  {
+    "topic_id": 19,
+    "category": "forms",
+    "key": "contact",
+    "description": "a contact page with a full form (name, email, subject, message, send button)",
+    "requested": 30
+  },
+  {
+    "topic_id": 20,
+    "category": "forms",
+    "key": "hotel_booking",
+    "description": "a hotel booking form with dates, guests and room type",
+    "requested": 20
+  },
+  {
+    "topic_id": 21,
+    "category": "forms",
+    "key": "job_application",
+    "description": "a job application page with a form and file upload",
+    "requested": 15
+  },
+  {
+    "topic_id": 22,
+    "category": "forms",
+    "key": "blog_newsletter",
+    "description": "a newsletter sign-up section inside a blog homepage",
+    "requested": 20
+  },
+  {
+    "topic_id": 23,
+    "category": "forms",
+    "key": "login_signup",
+    "description": "a login page and a sign-up page side by side",
+    "requested": 15
+  },
+  {
+    "topic_id": 24,
+    "category": "forms",
+    "key": "restaurant_reservation",
+    "description": "a restaurant reservation form with date, time and party size",
+    "requested": 20
+  },
+  {
+    "topic_id": 25,
+    "category": "forms",
+    "key": "survey",
+    "description": "a survey page with radio buttons, checkboxes and a dropdown",
+    "requested": 20
+  },
+  {
+    "topic_id": 26,
+    "category": "forms",
+    "key": "checkout",
+    "description": "a checkout page with shipping and payment fields",
+    "requested": 15
+  },
+  {
+    "topic_id": 27,
+    "category": "forms",
+    "key": "event_registration",
+    "description": "a event registration form with ticket type selection",
+    "requested": 15
+  },
+  {
+    "topic_id": 28,
+    "category": "grids",
+    "key": "store",
+    "description": "an online store homepage with a grid of 6 to 9 product cards",
+    "requested": 40
+  },
+  {
+    "topic_id": 29,
+    "category": "grids",
+    "key": "photographer",
+    "description": "a photographer portfolio with a 3-column image gallery",
+    "requested": 25
+  },
+  {
+    "topic_id": 30,
+    "category": "grids",
+    "key": "real_estate",
+    "description": "a real estate site with a grid of property listings (price, beds, baths)",
+    "requested": 25
+  },
+  {
+    "topic_id": 31,
+    "category": "grids",
+    "key": "recipes",
+    "description": "a recipe website with recipe cards (image, title, cook time)",
+    "requested": 25
+  },
+  {
+    "topic_id": 32,
+    "category": "grids",
+    "key": "team",
+    "description": "a team page with staff cards (photo, name, role)",
+    "requested": 20
+  },
+  {
+    "topic_id": 33,
+    "category": "grids",
+    "key": "blog",
+    "description": "a blog homepage with a grid of article cards",
+    "requested": 25
+  },
+  {
+    "topic_id": 34,
+    "category": "grids",
+    "key": "movies",
+    "description": "a movie streaming site with rows of movie posters",
+    "requested": 20
+  },
+  {
+    "topic_id": 35,
+    "category": "grids",
+    "key": "travel",
+    "description": "a travel site with destination cards and prices",
+    "requested": 20
+  },
+  {
+    "topic_id": 36,
+    "category": "grids",
+    "key": "pet_adoption",
+    "description": "a pet adoption site with cards for each animal",
+    "requested": 20
+  },
+  {
+    "topic_id": 37,
+    "category": "grids",
+    "key": "courses",
+    "description": "a course catalogue with course cards, levels and prices",
+    "requested": 20
+  },
+  {
+    "topic_id": 38,
+    "category": "dashboards",
+    "key": "admin",
+    "description": "an admin dashboard with a sidebar, stat cards and a recent orders table",
+    "requested": 30
+  },
+  {
+    "topic_id": 39,
+    "category": "dashboards",
+    "key": "fitness",
+    "description": "a fitness tracker dashboard with daily stats and a weekly progress list",
+    "requested": 15
+  },
+  {
+    "topic_id": 40,
+    "category": "dashboards",
+    "key": "finance",
+    "description": "a personal finance dashboard with balance, spending categories and transactions",
+    "requested": 15
+  },
+  {
+    "topic_id": 41,
+    "category": "dashboards",
+    "key": "project_board",
+    "description": "a project management board with To Do, Doing and Done columns",
+    "requested": 20
+  },
+  {
+    "topic_id": 42,
+    "category": "dashboards",
+    "key": "weather",
+    "description": "a weather app page with current weather and a 5-day forecast",
+    "requested": 20
+  },
+  {
+    "topic_id": 43,
+    "category": "dashboards",
+    "key": "email",
+    "description": "an email inbox layout with a folder sidebar and message list",
+    "requested": 15
+  },
+  {
+    "topic_id": 44,
+    "category": "dashboards",
+    "key": "music",
+    "description": "a music player page with a playlist and now-playing card",
+    "requested": 15
+  },
+  {
+    "topic_id": 45,
+    "category": "dashboards",
+    "key": "profile",
+    "description": "a user profile page with avatar, stats and activity feed",
+    "requested": 15
+  },
+  {
+    "topic_id": 46,
+    "category": "interactive",
+    "key": "counter",
+    "description": "a click counter page with a big button and a score display",
+    "requested": 20
+  },
+  {
+    "topic_id": 47,
+    "category": "interactive",
+    "key": "todo",
+    "description": "a to-do list where you can add and tick off items",
+    "requested": 20
+  },
+  {
+    "topic_id": 48,
+    "category": "interactive",
+    "key": "faq",
+    "description": "an FAQ page where answers open and close when clicked",
+    "requested": 25
+  },
+  {
+    "topic_id": 49,
+    "category": "interactive",
+    "key": "tabs",
+    "description": "a page with tabs that switch between sections",
+    "requested": 20
+  },
+  {
+    "topic_id": 50,
+    "category": "interactive",
+    "key": "quiz",
+    "description": "a quiz with multiple-choice questions and a score at the end",
+    "requested": 20
+  },
+  {
+    "topic_id": 51,
+    "category": "interactive",
+    "key": "dropdown",
+    "description": "a dropdown navigation menu that opens on click",
+    "requested": 15
+  },
+  {
+    "topic_id": 52,
+    "category": "interactive",
+    "key": "slider",
+    "description": "an image slider with next and previous buttons",
+    "requested": 15
+  },
+  {
+    "topic_id": 53,
+    "category": "interactive",
+    "key": "dark_mode",
+    "description": "a dark mode toggle button that switches the page colours",
+    "requested": 15
+  },
+  {
+    "topic_id": 54,
+    "category": "interactive",
+    "key": "tip_calculator",
+    "description": "a simple tip calculator",
+    "requested": 10
+  },
+  {
+    "topic_id": 55,
+    "category": "interactive",
+    "key": "countdown",
+    "description": "a countdown timer to a launch date",
+    "requested": 10
+  },
+  {
+    "topic_id": 56,
+    "category": "interactive",
+    "key": "modal",
+    "description": "a modal popup that opens from a button",
+    "requested": 15
+  },
+  {
+    "topic_id": 57,
+    "category": "interactive",
+    "key": "light_switch",
+    "description": "a light switch / toggle demo page",
+    "requested": 10
+  },
+  {
+    "topic_id": 58,
+    "category": "interactive",
+    "key": "reaction_game",
+    "description": "a simple reaction-time game (wait for green, click fast)",
+    "requested": 10
+  },
+  {
+    "topic_id": 59,
+    "category": "interactive",
+    "key": "rock_paper_scissors",
+    "description": "a rock paper scissors game",
+    "requested": 10
+  },
+  {
+    "topic_id": 60,
+    "category": "interactive",
+    "key": "memory_game",
+    "description": "a memory card matching game",
+    "requested": 10
+  },
+  {
+    "topic_id": 61,
+    "category": "interactive",
+    "key": "number_guessing",
+    "description": "a number guessing game",
+    "requested": 10
+  },
+  {
+    "topic_id": 62,
+    "category": "unusual",
+    "key": "blacksmith",
+    "description": "a medieval blacksmith shop with a gallery of swords and a price list",
+    "requested": 10
+  },
+  {
+    "topic_id": 63,
+    "category": "unusual",
+    "key": "space",
+    "description": "a space agency with a mission list, rocket image and newsletter form",
+    "requested": 10
+  },
+  {
+    "topic_id": 64,
+    "category": "unusual",
+    "key": "robotics",
+    "description": "a robotics lab with projects, team cards and a contact form",
+    "requested": 10
+  },
+  {
+    "topic_id": 65,
+    "category": "unusual",
+    "key": "surf_school",
+    "description": "a surf school with lesson prices, a schedule table and a sign-up button",
+    "requested": 10
+  },
+  {
+    "topic_id": 66,
+    "category": "unusual",
+    "key": "lemonade",
+    "description": "a lemonade stand with a menu, prices and a cute hero section",
+    "requested": 10
+  },
+  {
+    "topic_id": 67,
+    "category": "unusual",
+    "key": "beekeeping",
+    "description": "a beekeeping farm selling honey with product cards",
+    "requested": 10
+  },
+  {
+    "topic_id": 68,
+    "category": "unusual",
+    "key": "haunted_house",
+    "description": "a haunted house attraction with ticket prices and FAQ",
+    "requested": 10
+  },
+  {
+    "topic_id": 69,
+    "category": "unusual",
+    "key": "volcano",
+    "description": "a volcano research institute with data tables and articles",
+    "requested": 10
+  },
+  {
+    "topic_id": 70,
+    "category": "unusual",
+    "key": "dinosaur_museum",
+    "description": "a dinosaur museum with exhibits, hours and ticket prices",
+    "requested": 10
+  },
+  {
+    "topic_id": 71,
+    "category": "unusual",
+    "key": "cybersecurity",
+    "description": "a cybersecurity firm with service cards, FAQ and a contact form",
+    "requested": 10
+  },
+  {
+    "topic_id": 72,
+    "category": "unusual",
+    "key": "tattoo",
+    "description": "a tattoo studio with artist cards and a booking form",
+    "requested": 10
+  },
+  {
+    "topic_id": 73,
+    "category": "unusual",
+    "key": "board_game_cafe",
+    "description": "a board game cafe with a games list and table booking",
+    "requested": 10
+  },
+  {
+    "topic_id": 74,
+    "category": "unusual",
+    "key": "drone_racing",
+    "description": "a drone racing league with standings table and events",
+    "requested": 10
+  },
+  {
+    "topic_id": 75,
+    "category": "unusual",
+    "key": "records",
+    "description": "a vintage record store with album cards and prices",
+    "requested": 10
+  },
+  {
+    "topic_id": 76,
+    "category": "unusual",
+    "key": "cabins",
+    "description": "a mountain cabin rental with photos, prices and a booking form",
+    "requested": 10
+  },
+  {
+    "topic_id": 77,
+    "category": "colours",
+    "key": "purple_festival",
+    "description": "a purple music festival page with a lineup list and ticket button",
+    "requested": 15
+  },
+  {
+    "topic_id": 78,
+    "category": "colours",
+    "key": "teal_beach",
+    "description": "a teal surf / beach themed landing page",
+    "requested": 15
+  },
+  {
+    "topic_id": 79,
+    "category": "colours",
+    "key": "indigo_conference",
+    "description": "an indigo tech conference page with speakers and schedule",
+    "requested": 10
+  },
+  {
+    "topic_id": 80,
+    "category": "colours",
+    "key": "pink_sweets",
+    "description": "a pink bakery or ice cream shop page",
+    "requested": 10
+  },
+  {
+    "topic_id": 81,
+    "category": "colours",
+    "key": "orange_citrus",
+    "description": "an orange juice or citrus brand page",
+    "requested": 10
+  },
+  {
+    "topic_id": 82,
+    "category": "colours",
+    "key": "dark_gaming",
+    "description": "a fully dark-themed gaming or tech page (dark background, light text)",
+    "requested": 20
+  },
+  {
+    "topic_id": 83,
+    "category": "colours",
+    "key": "yellow_construction",
+    "description": "a yellow and black construction company page",
+    "requested": 10
+  },
+  {
+    "topic_id": 84,
+    "category": "multisection",
+    "key": "startup",
+    "description": "a full startup landing page: nav, hero, features grid, testimonials, pricing, FAQ, footer",
+    "requested": 30
+  },
+  {
+    "topic_id": 85,
+    "category": "multisection",
+    "key": "restaurant",
+    "description": "a full restaurant site: nav, hero, menu with prices, gallery, reservation form, footer",
+    "requested": 20
+  },
+  {
+    "topic_id": 86,
+    "category": "multisection",
+    "key": "hotel",
+    "description": "a full hotel site: nav, hero, rooms with prices, amenities, reviews, booking form, footer",
+    "requested": 20
+  },
+  {
+    "topic_id": 87,
+    "category": "multisection",
+    "key": "charity",
+    "description": "a full charity site: nav, mission, impact numbers, stories, donate form, footer",
+    "requested": 15
+  },
+  {
+    "topic_id": 88,
+    "category": "multisection",
+    "key": "school",
+    "description": "a full school site: nav, hero, programs, events table, staff cards, contact form, footer",
+    "requested": 15
+  },
+  {
+    "topic_id": 89,
+    "category": "multisection",
+    "key": "portfolio",
+    "description": "a full portfolio: nav, about, skills list, project gallery, testimonials, contact form",
+    "requested": 20
+  }
+]

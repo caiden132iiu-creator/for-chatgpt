@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Cedar Operations. Location: Tacoma, Washington. Visual direction: burgundy palette; a wide opening with a compact masthead.

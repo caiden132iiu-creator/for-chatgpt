@@ -1,0 +1,2 @@
+A pet adoption site with cards for each animal.
+Brand: Cedar Animal Rescue. Location: Chattanooga, Tennessee. Visual direction: orange palette; a wide opening with a compact masthead.

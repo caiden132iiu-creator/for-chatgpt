@@ -1,0 +1,2 @@
+A coffee shop menu with drinks and pastries, each with a price.
+Brand: Moss Coffee House. Location: Flagstaff, Arizona. Visual direction: sage palette; a compact introduction with a strong vertical accent.

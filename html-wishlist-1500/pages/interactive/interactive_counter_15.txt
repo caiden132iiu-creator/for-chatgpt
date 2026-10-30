@@ -1,0 +1,2 @@
+A click counter page with a big button and a score display.
+Brand: Wren Click Lab. Location: Asheville, North Carolina. Visual direction: sage palette; a wide photographic or illustrated opening.

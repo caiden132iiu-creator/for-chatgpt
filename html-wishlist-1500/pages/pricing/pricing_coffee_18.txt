@@ -1,0 +1,2 @@
+A coffee shop menu with drinks and pastries, each with a price.
+Brand: Fable Coffee House. Location: Asheville, North Carolina. Visual direction: burgundy palette; a split introduction with a large image.

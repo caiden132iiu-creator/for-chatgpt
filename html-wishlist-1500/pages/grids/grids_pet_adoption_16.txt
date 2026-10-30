@@ -1,0 +1,2 @@
+A pet adoption site with cards for each animal.
+Brand: Meridian Animal Rescue. Location: Boise, Idaho. Visual direction: teal palette; a compact introduction with a strong vertical accent.

@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Lumen Operations. Location: Bend, Oregon. Visual direction: cobalt palette; a wide opening with a compact masthead.

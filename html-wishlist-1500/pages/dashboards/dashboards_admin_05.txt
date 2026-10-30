@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Copper Operations. Location: Bend, Oregon. Visual direction: indigo palette; an accent-colored introductory band.

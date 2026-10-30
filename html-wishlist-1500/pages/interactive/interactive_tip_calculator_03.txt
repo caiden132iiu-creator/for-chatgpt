@@ -1,0 +1,2 @@
+A simple tip calculator.
+Brand: Cinder Table Tools. Location: Salem, Massachusetts. Visual direction: rust palette; an editorial introduction with a narrow side column.

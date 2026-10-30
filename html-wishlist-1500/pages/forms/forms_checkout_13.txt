@@ -1,0 +1,2 @@
+A checkout page with shipping and payment fields.
+Brand: Linden Supply Co.. Location: Eugene, Oregon. Visual direction: cobalt palette; an accent-colored introductory band.

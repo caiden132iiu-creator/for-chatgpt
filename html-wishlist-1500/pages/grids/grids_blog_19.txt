@@ -1,0 +1,2 @@
+A blog homepage with a grid of article cards.
+Brand: Peregrine Dispatch. Location: Boise, Idaho. Visual direction: ocean palette; an editorial introduction with a narrow side column.

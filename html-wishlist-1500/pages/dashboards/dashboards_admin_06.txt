@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Northstar Operations. Location: Burlington, Vermont. Visual direction: mustard palette; a side introduction with a reading column.

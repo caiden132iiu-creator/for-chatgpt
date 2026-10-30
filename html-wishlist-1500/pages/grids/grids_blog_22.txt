@@ -1,0 +1,2 @@
+A blog homepage with a grid of article cards.
+Brand: Orchard Dispatch. Location: Tacoma, Washington. Visual direction: purple palette; a side introduction with a reading column.

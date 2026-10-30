@@ -1,0 +1,2 @@
+A full restaurant site: nav, hero, menu with prices, gallery, reservation form, footer.
+Brand: Marigold Restaurant. Location: Santa Fe, New Mexico. Visual direction: cobalt palette; a framed introduction and generous cards.

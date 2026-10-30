@@ -1,0 +1,2 @@
+A full startup landing page: nav, hero, features grid, testimonials, pricing, FAQ, footer.
+Brand: Orchard Flow. Location: Duluth, Minnesota. Visual direction: pink palette; a side introduction with a reading column.

@@ -1,0 +1,2 @@
+A full hotel site: nav, hero, rooms with prices, amenities, reviews, booking form, footer.
+Brand: Peregrine Hotel. Location: Santa Fe, New Mexico. Visual direction: rust palette; an editorial introduction with a narrow side column.

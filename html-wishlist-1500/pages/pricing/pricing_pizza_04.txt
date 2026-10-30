@@ -1,0 +1,2 @@
+A pizza restaurant menu with sizes and prices per pizza.
+Brand: Willow Pizza Kitchen. Location: Chattanooga, Tennessee. Visual direction: indigo palette; a framed introduction and generous cards.

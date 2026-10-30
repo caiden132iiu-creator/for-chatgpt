@@ -1,0 +1,2 @@
+A checkout page with shipping and payment fields.
+Brand: Cinder Supply Co.. Location: Bellingham, Washington. Visual direction: purple palette; an editorial introduction with a narrow side column.

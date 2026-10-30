@@ -1,0 +1,2 @@
+A photographer portfolio with a 3-column image gallery.
+Brand: Northstar Photography. Location: Tacoma, Washington. Visual direction: rust palette; a side introduction with a reading column.

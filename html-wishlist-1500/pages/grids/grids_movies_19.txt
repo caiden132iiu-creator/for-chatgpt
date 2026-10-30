@@ -1,0 +1,2 @@
+A movie streaming site with rows of movie posters.
+Brand: Peregrine Cinema. Location: Chattanooga, Tennessee. Visual direction: sage palette; an editorial introduction with a narrow side column.

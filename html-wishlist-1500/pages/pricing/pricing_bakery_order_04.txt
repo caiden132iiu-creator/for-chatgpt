@@ -1,0 +1,2 @@
+A bakery online order page listing cakes with prices and quantity buttons.
+Brand: Willow Bakehouse. Location: Ann Arbor, Michigan. Visual direction: terracotta palette; a framed introduction and generous cards.

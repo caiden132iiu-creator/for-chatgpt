@@ -1,0 +1,2 @@
+A movie streaming site with rows of movie posters.
+Brand: Fable Cinema. Location: Boise, Idaho. Visual direction: mustard palette; a split introduction with a large image.

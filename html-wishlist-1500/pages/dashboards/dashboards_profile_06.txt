@@ -1,0 +1,2 @@
+A user profile page with avatar, stats and activity feed.
+Brand: Northstar Member. Location: Providence, Rhode Island. Visual direction: rust palette; a side introduction with a reading column.

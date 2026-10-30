@@ -1,0 +1,2 @@
+A survey page with radio buttons, checkboxes and a dropdown.
+Brand: Fable Community Survey. Location: Bend, Oregon. Visual direction: rust palette; a split introduction with a large image.

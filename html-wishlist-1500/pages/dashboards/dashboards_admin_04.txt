@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Willow Operations. Location: Madison, Wisconsin. Visual direction: terracotta palette; a framed introduction and generous cards.

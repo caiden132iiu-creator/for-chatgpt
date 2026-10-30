@@ -1,0 +1,2 @@
+A product comparison table of three laptops with specs.
+Brand: Northstar Device Guide. Location: Eugene, Oregon. Visual direction: rust palette; a side introduction with a reading column.

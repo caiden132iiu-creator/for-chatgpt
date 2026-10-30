@@ -1,0 +1,27 @@
+{
+  "pages": 1500,
+  "descriptions": 1500,
+  "requested_topics": 89,
+  "category_counts": {
+    "pricing": 200,
+    "tables": 150,
+    "forms": 170,
+    "grids": 240,
+    "dashboards": 145,
+    "interactive": 235,
+    "unusual": 150,
+    "colours": 90,
+    "multisection": 120
+  },
+  "all_checks_passed": true,
+  "desktop_rendered": 1500,
+  "mobile_rendered": 1500,
+  "functional_pages_tested": 315,
+  "interactive_pages_tested": 235,
+  "accessibility_examples_tested": 89,
+  "static_report": "qa_static.json",
+  "browser_report": "qa_browser.json",
+  "javascript_report": "qa_javascript.json",
+  "accessibility_report": "qa_accessibility.json",
+  "regeneration_report": "qa_regeneration.json"
+}

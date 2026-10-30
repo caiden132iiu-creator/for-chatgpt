@@ -1,0 +1,2 @@
+A coffee shop menu with drinks and pastries, each with a price.
+Brand: Bracken Coffee House. Location: Tacoma, Washington. Visual direction: orange palette; a framed introduction and generous cards.

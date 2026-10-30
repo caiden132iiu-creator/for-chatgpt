@@ -1,0 +1,2 @@
+A restaurant reservation form with date, time and party size.
+Brand: Cedar Kitchen. Location: Asheville, North Carolina. Visual direction: sage palette; a wide opening with a compact masthead.

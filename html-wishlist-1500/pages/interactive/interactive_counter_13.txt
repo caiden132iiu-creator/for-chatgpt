@@ -1,0 +1,2 @@
+A click counter page with a big button and a score display.
+Brand: Linden Click Lab. Location: Eugene, Oregon. Visual direction: indigo palette; an accent-colored introductory band.

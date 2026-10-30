@@ -1,0 +1,2 @@
+A hotel booking form with dates, guests and room type.
+Brand: Clover Lodge. Location: Richmond, Virginia. Visual direction: ink palette; a compact introduction with a strong vertical accent.

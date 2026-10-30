@@ -1,0 +1,2 @@
+A weather app page with current weather and a 5-day forecast.
+Brand: Cinder Weather. Location: Santa Fe, New Mexico. Visual direction: purple palette; an editorial introduction with a narrow side column.

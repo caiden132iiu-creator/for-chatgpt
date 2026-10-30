@@ -1,0 +1,2 @@
+A full hotel site: nav, hero, rooms with prices, amenities, reviews, booking form, footer.
+Brand: Marigold Hotel. Location: Duluth, Minnesota. Visual direction: terracotta palette; a framed introduction and generous cards.

@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Rowan Operations. Location: Burlington, Vermont. Visual direction: teal palette; a split introduction with a large image.

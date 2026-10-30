@@ -1,0 +1,2 @@
+A company page with a table of office locations, phones and hours.
+Brand: Linden Collective. Location: Bellingham, Washington. Visual direction: orange palette; an accent-colored introductory band.

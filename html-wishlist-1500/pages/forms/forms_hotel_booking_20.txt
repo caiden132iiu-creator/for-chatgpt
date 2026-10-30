@@ -1,0 +1,2 @@
+A hotel booking form with dates, guests and room type.
+Brand: Marigold Lodge. Location: Portland, Maine. Visual direction: forest palette; a framed introduction and generous cards.

@@ -1,0 +1,2 @@
+A hotel booking form with dates, guests and room type.
+Brand: Harbor Lodge. Location: Bellingham, Washington. Visual direction: rust palette; a wide opening with a compact masthead.

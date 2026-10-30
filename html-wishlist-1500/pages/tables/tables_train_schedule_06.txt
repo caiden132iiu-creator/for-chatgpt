@@ -1,0 +1,2 @@
+A train schedule with departure and arrival times.
+Brand: Northstar Rail Link. Location: Portland, Maine. Visual direction: forest palette; a side introduction with a reading column.

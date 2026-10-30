@@ -1,0 +1,2 @@
+A real estate site with a grid of property listings (price, beds, baths).
+Brand: Harbor Homes. Location: Eugene, Oregon. Visual direction: burgundy palette; a wide opening with a compact masthead.

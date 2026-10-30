@@ -1,0 +1,2 @@
+A recipe website with recipe cards (image, title, cook time).
+Brand: Northstar Recipe Club. Location: Salem, Massachusetts. Visual direction: cobalt palette; a side introduction with a reading column.

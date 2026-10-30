@@ -1,0 +1,2 @@
+A contact page with a full form (name, email, subject, message, send button).
+Brand: Marigold Studio. Location: Eugene, Oregon. Visual direction: rust palette; a framed introduction and generous cards.

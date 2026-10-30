@@ -1,0 +1,2 @@
+A personal finance dashboard with balance, spending categories and transactions.
+Brand: Linden Money. Location: Chattanooga, Tennessee. Visual direction: rust palette; an accent-colored introductory band.

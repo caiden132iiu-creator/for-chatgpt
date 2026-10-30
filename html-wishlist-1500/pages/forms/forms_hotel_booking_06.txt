@@ -1,0 +1,2 @@
+A hotel booking form with dates, guests and room type.
+Brand: Northstar Lodge. Location: Duluth, Minnesota. Visual direction: pink palette; a side introduction with a reading column.

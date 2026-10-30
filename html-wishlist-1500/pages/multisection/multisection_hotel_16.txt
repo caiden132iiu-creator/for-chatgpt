@@ -1,0 +1,2 @@
+A full hotel site: nav, hero, rooms with prices, amenities, reviews, booking form, footer.
+Brand: Meridian Hotel. Location: Madison, Wisconsin. Visual direction: pink palette; a compact introduction with a strong vertical accent.

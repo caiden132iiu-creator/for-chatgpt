@@ -1,0 +1,2 @@
+A checkout page with shipping and payment fields.
+Brand: Willow Supply Co.. Location: Ann Arbor, Michigan. Visual direction: pink palette; a framed introduction and generous cards.

@@ -1,0 +1,2 @@
+A pet adoption site with cards for each animal.
+Brand: Kestrel Animal Rescue. Location: Duluth, Minnesota. Visual direction: terracotta palette; a split introduction with a large image.

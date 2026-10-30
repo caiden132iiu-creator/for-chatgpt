@@ -1,0 +1,2 @@
+A real estate site with a grid of property listings (price, beds, baths).
+Brand: Tandem Homes. Location: Chattanooga, Tennessee. Visual direction: purple palette; a wide photographic or illustrated opening.

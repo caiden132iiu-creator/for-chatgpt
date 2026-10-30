@@ -1,0 +1,159 @@
+help me, im creating training data for this ai model and i need to get this wishlist done with as much qaulity as possible
+
+QUALITY HTML WISHLIST
+=====================
+Format:  description | X<how many different pages of it we want>
+Total: 1,500 pages. Bigger numbers = bigger gaps in the current training data
+(it has 0% tables, 1% prices, 8% grids, 10% forms, 0.1% JavaScript).
+
+RULES FOR EVERY PAGE (so they can be used for training)
+  - One complete .html file, start to finish.
+  - Style with Tailwind classes and include this line in the page:
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  - Real content: no "Lorem ipsum", no "Your Company Name", no empty sections.
+  - Every page different: different names, text, layout, colours. 10 copies of one page teach nothing.
+  - Interactive pages: keep JavaScript short and inside the page (no external libraries).
+  - Save the description with each page, e.g. pricing_saas_01.html + pricing_saas_01.txt
+
+---------------------------------------------------------------
+PRICING (data has prices on only 1% of pages)
+---------------------------------------------------------------
+a software company with a pricing table of three plans (monthly prices, feature lists, highlighted middle plan) | X40
+a gym with membership plans and prices, a class list and a sign-up form | X25
+a coffee shop menu with drinks and pastries, each with a price | X25
+a web hosting company comparing basic, pro and business plans in a table | X20
+a car wash with service packages, prices and a booking button | X15
+a bakery online order page listing cakes with prices and quantity buttons | X15
+a streaming service with a free, standard and premium plan | X15
+a hair salon price list grouped by service | X15
+a pizza restaurant menu with sizes and prices per pizza | X15
+a dog grooming salon with three service cards with prices | X15
+
+---------------------------------------------------------------
+TABLES (data has 0%)
+---------------------------------------------------------------
+a sports league page with a standings table (team, wins, losses, points) | X30
+a school timetable for a week in a table | X20
+a product comparison table of three laptops with specs | X20
+a train schedule with departure and arrival times | X20
+a nutrition facts page with a table of foods and calories | X15
+a company page with a table of office locations, phones and hours | X15
+a leaderboard for a video game with ranks, players and scores | X15
+a conference schedule table with times, talks and rooms | X15
+
+---------------------------------------------------------------
+FORMS (data has 10%)
+---------------------------------------------------------------
+a contact page with a full form (name, email, subject, message, send button) | X30
+a hotel booking form with dates, guests and room type | X20
+a job application page with a form and file upload | X15
+a newsletter sign-up section inside a blog homepage | X20
+a login page and a sign-up page side by side | X15
+a restaurant reservation form with date, time and party size | X20
+a survey page with radio buttons, checkboxes and a dropdown | X20
+a checkout page with shipping and payment fields | X15
+a event registration form with ticket type selection | X15
+
+---------------------------------------------------------------
+GRIDS / CARDS / GALLERIES (data has 8%)
+---------------------------------------------------------------
+an online store homepage with a grid of 6 to 9 product cards | X40
+a photographer portfolio with a 3-column image gallery | X25
+a real estate site with a grid of property listings (price, beds, baths) | X25
+a recipe website with recipe cards (image, title, cook time) | X25
+a team page with staff cards (photo, name, role) | X20
+a blog homepage with a grid of article cards | X25
+a movie streaming site with rows of movie posters | X20
+a travel site with destination cards and prices | X20
+a pet adoption site with cards for each animal | X20
+a course catalogue with course cards, levels and prices | X20
+
+---------------------------------------------------------------
+DASHBOARDS / APP-STYLE LAYOUTS (data has almost none)
+---------------------------------------------------------------
+an admin dashboard with a sidebar, stat cards and a recent orders table | X30
+a fitness tracker dashboard with daily stats and a weekly progress list | X15
+a personal finance dashboard with balance, spending categories and transactions | X15
+a project management board with To Do, Doing and Done columns | X20
+a weather app page with current weather and a 5-day forecast | X20
+an email inbox layout with a folder sidebar and message list | X15
+a music player page with a playlist and now-playing card | X15
+a user profile page with avatar, stats and activity feed | X15
+
+---------------------------------------------------------------
+INTERACTIVE (data has 0.1% JavaScript) - short JS inside the page
+---------------------------------------------------------------
+a click counter page with a big button and a score display | X20
+a to-do list where you can add and tick off items | X20
+an FAQ page where answers open and close when clicked | X25
+a page with tabs that switch between sections | X20
+a quiz with multiple-choice questions and a score at the end | X20
+a dropdown navigation menu that opens on click | X15
+an image slider with next and previous buttons | X15
+a dark mode toggle button that switches the page colours | X15
+a simple tip calculator | X10
+a countdown timer to a launch date | X10
+a modal popup that opens from a button | X15
+a light switch / toggle demo page | X10
+a simple reaction-time game (wait for green, click fast) | X10
+a rock paper scissors game | X10
+a memory card matching game | X10
+a number guessing game | X10
+
+---------------------------------------------------------------
+UNUSUAL TOPICS (model fails at topics it hasn't seen)
+---------------------------------------------------------------
+a medieval blacksmith shop with a gallery of swords and a price list | X10
+a space agency with a mission list, rocket image and newsletter form | X10
+a robotics lab with projects, team cards and a contact form | X10
+a surf school with lesson prices, a schedule table and a sign-up button | X10
+a lemonade stand with a menu, prices and a cute hero section | X10
+a beekeeping farm selling honey with product cards | X10
+a haunted house attraction with ticket prices and FAQ | X10
+a volcano research institute with data tables and articles | X10
+a dinosaur museum with exhibits, hours and ticket prices | X10
+a cybersecurity firm with service cards, FAQ and a contact form | X10
+a tattoo studio with artist cards and a booking form | X10
+a board game cafe with a games list and table booking | X10
+a drone racing league with standings table and events | X10
+a vintage record store with album cards and prices | X10
+a mountain cabin rental with photos, prices and a booking form | X10
+
+---------------------------------------------------------------
+COLOURS (purple and teal were ignored in testing)
+---------------------------------------------------------------
+a purple music festival page with a lineup list and ticket button | X15
+a teal surf / beach themed landing page | X15
+an indigo tech conference page with speakers and schedule | X10
+a pink bakery or ice cream shop page | X10
+an orange juice or citrus brand page | X10
+a fully dark-themed gaming or tech page (dark background, light text) | X20
+a yellow and black construction company page | X10
+
+---------------------------------------------------------------
+BIGGER MULTI-SECTION PAGES (data median is only 19 elements)
+---------------------------------------------------------------
+a full startup landing page: nav, hero, features grid, testimonials, pricing, FAQ, footer | X30
+a full restaurant site: nav, hero, menu with prices, gallery, reservation form, footer | X20
+a full hotel site: nav, hero, rooms with prices, amenities, reviews, booking form, footer | X20
+a full charity site: nav, mission, impact numbers, stories, donate form, footer | X15
+a full school site: nav, hero, programs, events table, staff cards, contact form, footer | X15
+a full portfolio: nav, about, skills list, project gallery, testimonials, contact form | X20
+
+---------------------------------------------------------------
+TOTAL: 1,500 pages across 89 descriptions
+  Pricing 200 | Tables 150 | Forms 170 | Grids/galleries 240 | Dashboards 145
+  Interactive 230 | Unusual topics 150 | Colours 90 | Multi-section 120
+  (some lines add up a little differently; close enough is fine)
+
+HOW THEY'LL BE USED
+  1,500 pages is small next to 386,000 WebSight pages, so each quality page will be
+  repeated ~10x in training (about 4% of the mix) and checked by the quality analyzer
+  first. That's enough to shift what the model knows without making it memorise.
+  JavaScript pages also need the tokenizer upgrade (JS support) before the model can learn from them.
+
+
+the way is formatted is simple
+description | X[Number]
+the number is how many times you need to do it but either slightly diff or in a new style or whatever is good for a small 2-5M ai 
+get to work making those html files, put it all in 1 big file too, seporate it using catagory and a bunch of either "=" or "-"s

@@ -1,0 +1,2 @@
+A pet adoption site with cards for each animal.
+Brand: Morrow Animal Rescue. Location: Bend, Oregon. Visual direction: burgundy palette; a wide photographic or illustrated opening.

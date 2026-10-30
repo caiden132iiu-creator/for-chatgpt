@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Kestrel Operations. Location: Richmond, Virginia. Visual direction: teal palette; a split introduction with a large image.

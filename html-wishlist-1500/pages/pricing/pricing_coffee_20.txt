@@ -1,0 +1,2 @@
+A coffee shop menu with drinks and pastries, each with a price.
+Brand: Marigold Coffee House. Location: Bend, Oregon. Visual direction: rust palette; a framed introduction and generous cards.

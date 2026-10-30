@@ -1,0 +1,2 @@
+A recipe website with recipe cards (image, title, cook time).
+Brand: Linden Recipe Club. Location: Burlington, Vermont. Visual direction: pink palette; an accent-colored introductory band.

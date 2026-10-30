@@ -1,0 +1,2 @@
+A bakery online order page listing cakes with prices and quantity buttons.
+Brand: Northstar Bakehouse. Location: Boise, Idaho. Visual direction: mustard palette; a side introduction with a reading column.

@@ -1,0 +1,2 @@
+A survey page with radio buttons, checkboxes and a dropdown.
+Brand: Cinder Community Survey. Location: Richmond, Virginia. Visual direction: terracotta palette; an editorial introduction with a narrow side column.

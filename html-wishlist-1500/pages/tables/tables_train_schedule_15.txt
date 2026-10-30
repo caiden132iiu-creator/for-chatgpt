@@ -1,0 +1,2 @@
+A train schedule with departure and arrival times.
+Brand: Wren Rail Link. Location: Bellingham, Washington. Visual direction: sage palette; a wide photographic or illustrated opening.

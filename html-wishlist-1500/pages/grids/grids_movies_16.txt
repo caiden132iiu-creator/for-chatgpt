@@ -1,0 +1,2 @@
+A movie streaming site with rows of movie posters.
+Brand: Meridian Cinema. Location: Ann Arbor, Michigan. Visual direction: terracotta palette; a compact introduction with a strong vertical accent. A dark background with light text.

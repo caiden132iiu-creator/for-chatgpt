@@ -1,0 +1,2 @@
+A movie streaming site with rows of movie posters.
+Brand: Linden Cinema. Location: Flagstaff, Arizona. Visual direction: burgundy palette; an accent-colored introductory band.

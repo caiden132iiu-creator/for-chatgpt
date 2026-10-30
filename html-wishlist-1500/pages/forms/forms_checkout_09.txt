@@ -1,0 +1,2 @@
+A checkout page with shipping and payment fields.
+Brand: Harbor Supply Co.. Location: Tacoma, Washington. Visual direction: indigo palette; a wide opening with a compact masthead.

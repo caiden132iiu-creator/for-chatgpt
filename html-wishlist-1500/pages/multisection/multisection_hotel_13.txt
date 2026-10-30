@@ -1,0 +1,2 @@
+A full hotel site: nav, hero, rooms with prices, amenities, reviews, booking form, footer.
+Brand: Linden Hotel. Location: Eugene, Oregon. Visual direction: rose palette; an accent-colored introductory band.

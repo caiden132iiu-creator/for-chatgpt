@@ -1,0 +1,2 @@
+A pet adoption site with cards for each animal.
+Brand: Juniper Animal Rescue. Location: Traverse City, Michigan. Visual direction: ocean palette; a split introduction with a large image.

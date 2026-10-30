@@ -1,0 +1,2 @@
+A survey page with radio buttons, checkboxes and a dropdown.
+Brand: Morrow Community Survey. Location: Boise, Idaho. Visual direction: plum palette; a wide photographic or illustrated opening.

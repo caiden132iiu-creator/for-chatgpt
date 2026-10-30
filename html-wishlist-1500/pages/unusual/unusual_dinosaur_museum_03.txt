@@ -1,0 +1,2 @@
+A dinosaur museum with exhibits, hours and ticket prices.
+Brand: Cinder Dinosaur Museum. Location: Chattanooga, Tennessee. Visual direction: rust palette; an editorial introduction with a narrow side column.

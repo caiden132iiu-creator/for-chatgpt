@@ -1,0 +1,2 @@
+A recipe website with recipe cards (image, title, cook time).
+Brand: Willow Recipe Club. Location: Tacoma, Washington. Visual direction: sage palette; a framed introduction and generous cards.

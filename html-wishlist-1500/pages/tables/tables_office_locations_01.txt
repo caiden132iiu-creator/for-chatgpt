@@ -1,0 +1,2 @@
+A company page with a table of office locations, phones and hours.
+Brand: Alder Collective. Location: Salem, Massachusetts. Visual direction: purple palette; a wide opening with a compact masthead.

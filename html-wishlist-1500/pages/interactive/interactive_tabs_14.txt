@@ -1,0 +1,2 @@
+A page with tabs that switch between sections.
+Brand: Solstice Field Guide. Location: Bend, Oregon. Visual direction: sage palette; a side introduction with a reading column.

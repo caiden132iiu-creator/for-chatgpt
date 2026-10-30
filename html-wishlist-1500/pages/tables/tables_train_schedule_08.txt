@@ -1,0 +1,2 @@
+A train schedule with departure and arrival times.
+Brand: Clover Rail Link. Location: Madison, Wisconsin. Visual direction: pink palette; a compact introduction with a strong vertical accent.

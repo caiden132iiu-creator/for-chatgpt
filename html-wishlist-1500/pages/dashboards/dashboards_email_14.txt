@@ -1,0 +1,2 @@
+An email inbox layout with a folder sidebar and message list.
+Brand: Solstice Mail. Location: Salem, Massachusetts. Visual direction: indigo palette; a side introduction with a reading column.

@@ -1,0 +1,2 @@
+A full restaurant site: nav, hero, menu with prices, gallery, reservation form, footer.
+Brand: Kestrel Restaurant. Location: Tacoma, Washington. Visual direction: purple palette; a split introduction with a large image.

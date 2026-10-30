@@ -1,0 +1,2 @@
+A full hotel site: nav, hero, rooms with prices, amenities, reviews, booking form, footer.
+Brand: Bracken Hotel. Location: Traverse City, Michigan. Visual direction: ocean palette; a framed introduction and generous cards.

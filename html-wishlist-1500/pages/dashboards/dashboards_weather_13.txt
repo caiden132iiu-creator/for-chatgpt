@@ -1,0 +1,2 @@
+A weather app page with current weather and a 5-day forecast.
+Brand: Linden Weather. Location: Tacoma, Washington. Visual direction: cobalt palette; an accent-colored introductory band.

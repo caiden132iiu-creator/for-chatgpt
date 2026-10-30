@@ -1,0 +1,2 @@
+A blog homepage with a grid of article cards.
+Brand: Saffron Dispatch. Location: Burlington, Vermont. Visual direction: terracotta palette; an editorial introduction with a narrow side column.

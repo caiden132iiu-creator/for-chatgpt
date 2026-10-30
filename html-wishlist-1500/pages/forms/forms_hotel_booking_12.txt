@@ -1,0 +1,2 @@
+A hotel booking form with dates, guests and room type.
+Brand: Bracken Lodge. Location: Boise, Idaho. Visual direction: mustard palette; a framed introduction and generous cards.

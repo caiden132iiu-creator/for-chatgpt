@@ -1,0 +1,2 @@
+A full restaurant site: nav, hero, menu with prices, gallery, reservation form, footer.
+Brand: Copper Restaurant. Location: Ann Arbor, Michigan. Visual direction: teal palette; an accent-colored introductory band.

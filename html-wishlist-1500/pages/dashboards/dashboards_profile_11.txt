@@ -1,0 +1,2 @@
+A user profile page with avatar, stats and activity feed.
+Brand: Saffron Member. Location: Missoula, Montana. Visual direction: plum palette; an editorial introduction with a narrow side column.

@@ -1,0 +1,2 @@
+A survey page with radio buttons, checkboxes and a dropdown.
+Brand: Alder Community Survey. Location: Duluth, Minnesota. Visual direction: ink palette; a wide opening with a compact masthead.

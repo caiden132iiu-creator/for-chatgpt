@@ -1,0 +1,2 @@
+A pet adoption site with cards for each animal.
+Brand: Clover Animal Rescue. Location: Burlington, Vermont. Visual direction: ink palette; a compact introduction with a strong vertical accent.

@@ -1,0 +1,2 @@
+A pet adoption site with cards for each animal.
+Brand: Wren Animal Rescue. Location: Providence, Rhode Island. Visual direction: cobalt palette; a wide photographic or illustrated opening.

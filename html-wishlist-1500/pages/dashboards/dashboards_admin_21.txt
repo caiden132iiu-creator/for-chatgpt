@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Slate Operations. Location: Eugene, Oregon. Visual direction: indigo palette; an accent-colored introductory band.

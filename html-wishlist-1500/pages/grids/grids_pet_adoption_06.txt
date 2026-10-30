@@ -1,0 +1,2 @@
+A pet adoption site with cards for each animal.
+Brand: Northstar Animal Rescue. Location: Madison, Wisconsin. Visual direction: pink palette; a side introduction with a reading column.

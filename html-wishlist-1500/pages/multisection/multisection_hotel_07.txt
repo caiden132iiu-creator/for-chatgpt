@@ -1,0 +1,2 @@
+A full hotel site: nav, hero, rooms with prices, amenities, reviews, booking form, footer.
+Brand: Morrow Hotel. Location: Chattanooga, Tennessee. Visual direction: sage palette; a wide photographic or illustrated opening.

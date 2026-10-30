@@ -1,0 +1,2 @@
+A click counter page with a big button and a score display.
+Brand: Cinder Click Lab. Location: Bellingham, Washington. Visual direction: orange palette; an editorial introduction with a narrow side column.

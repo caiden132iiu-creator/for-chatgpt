@@ -1,0 +1,2 @@
+A weather app page with current weather and a 5-day forecast.
+Brand: Copper Weather. Location: Flagstaff, Arizona. Visual direction: burgundy palette; an accent-colored introductory band.

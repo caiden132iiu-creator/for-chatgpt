@@ -1,0 +1,2 @@
+A train schedule with departure and arrival times.
+Brand: Harbor Rail Link. Location: Bend, Oregon. Visual direction: burgundy palette; a wide opening with a compact masthead.

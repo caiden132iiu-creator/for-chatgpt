@@ -1,0 +1,2 @@
+A hotel booking form with dates, guests and room type.
+Brand: Peregrine Lodge. Location: Eugene, Oregon. Visual direction: rose palette; an editorial introduction with a narrow side column.

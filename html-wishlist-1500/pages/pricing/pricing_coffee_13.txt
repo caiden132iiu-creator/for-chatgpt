@@ -1,0 +1,2 @@
+A coffee shop menu with drinks and pastries, each with a price.
+Brand: Linden Coffee House. Location: Missoula, Montana. Visual direction: ocean palette; an accent-colored introductory band.

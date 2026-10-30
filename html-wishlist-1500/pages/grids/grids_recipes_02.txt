@@ -1,0 +1,2 @@
+A recipe website with recipe cards (image, title, cook time).
+Brand: Juniper Recipe Club. Location: Chattanooga, Tennessee. Visual direction: indigo palette; a split introduction with a large image.

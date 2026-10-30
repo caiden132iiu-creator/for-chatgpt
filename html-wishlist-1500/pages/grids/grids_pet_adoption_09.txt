@@ -1,0 +1,2 @@
+A pet adoption site with cards for each animal.
+Brand: Harbor Animal Rescue. Location: Santa Fe, New Mexico. Visual direction: rust palette; a wide opening with a compact masthead.

@@ -1,0 +1,2 @@
+A bakery online order page listing cakes with prices and quantity buttons.
+Brand: Morrow Bakehouse. Location: Chattanooga, Tennessee. Visual direction: sage palette; a wide photographic or illustrated opening.

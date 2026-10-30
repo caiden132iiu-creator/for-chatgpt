@@ -1,0 +1,2 @@
+An email inbox layout with a folder sidebar and message list.
+Brand: Bracken Mail. Location: Tacoma, Washington. Visual direction: rust palette; a framed introduction and generous cards. A dark background with light text.

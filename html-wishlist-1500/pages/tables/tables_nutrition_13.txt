@@ -1,0 +1,2 @@
+A nutrition facts page with a table of foods and calories.
+Brand: Linden Nutrition Notes. Location: Richmond, Virginia. Visual direction: pink palette; an accent-colored introductory band.

@@ -1,0 +1,2 @@
+A restaurant reservation form with date, time and party size.
+Brand: Solstice Kitchen. Location: Traverse City, Michigan. Visual direction: terracotta palette; a side introduction with a reading column.

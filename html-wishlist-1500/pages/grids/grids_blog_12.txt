@@ -1,0 +1,2 @@
+A blog homepage with a grid of article cards.
+Brand: Bracken Dispatch. Location: Santa Fe, New Mexico. Visual direction: indigo palette; a framed introduction and generous cards.

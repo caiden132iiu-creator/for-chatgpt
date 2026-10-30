@@ -1,0 +1,2 @@
+A coffee shop menu with drinks and pastries, each with a price.
+Brand: Harbor Coffee House. Location: Boise, Idaho. Visual direction: plum palette; a wide opening with a compact masthead.

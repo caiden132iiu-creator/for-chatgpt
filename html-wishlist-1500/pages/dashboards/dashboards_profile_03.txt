@@ -1,0 +1,2 @@
+A user profile page with avatar, stats and activity feed.
+Brand: Cinder Member. Location: Richmond, Virginia. Visual direction: pink palette; an editorial introduction with a narrow side column.

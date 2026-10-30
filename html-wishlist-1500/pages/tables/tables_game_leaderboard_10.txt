@@ -1,0 +1,2 @@
+A leaderboard for a video game with ranks, players and scores.
+Brand: Kestrel Arena. Location: Flagstaff, Arizona. Visual direction: rust palette; a split introduction with a large image.

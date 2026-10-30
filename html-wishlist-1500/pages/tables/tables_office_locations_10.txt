@@ -1,0 +1,2 @@
+A company page with a table of office locations, phones and hours.
+Brand: Kestrel Collective. Location: Duluth, Minnesota. Visual direction: plum palette; a split introduction with a large image.

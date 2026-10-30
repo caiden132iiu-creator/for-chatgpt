@@ -1,0 +1,2 @@
+A conference schedule table with times, talks and rooms.
+Brand: Linden Developer Forum. Location: Providence, Rhode Island. Visual direction: burgundy palette; an accent-colored introductory band.

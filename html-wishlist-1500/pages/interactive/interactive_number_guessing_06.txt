@@ -1,0 +1,2 @@
+A number guessing game.
+Brand: Northstar Number Club. Location: Flagstaff, Arizona. Visual direction: rust palette; a side introduction with a reading column.

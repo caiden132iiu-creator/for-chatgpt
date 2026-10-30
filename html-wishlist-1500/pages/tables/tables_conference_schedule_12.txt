@@ -1,0 +1,2 @@
+A conference schedule table with times, talks and rooms.
+Brand: Bracken Developer Forum. Location: Ann Arbor, Michigan. Visual direction: pink palette; a framed introduction and generous cards.

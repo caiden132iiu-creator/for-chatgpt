@@ -1,0 +1,2 @@
+A real estate site with a grid of property listings (price, beds, baths).
+Brand: Saffron Homes. Location: Asheville, North Carolina. Visual direction: rust palette; an editorial introduction with a narrow side column.

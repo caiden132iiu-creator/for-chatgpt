@@ -1,0 +1,2 @@
+A survey page with radio buttons, checkboxes and a dropdown.
+Brand: Marigold Community Survey. Location: Santa Fe, New Mexico. Visual direction: indigo palette; a framed introduction and generous cards.

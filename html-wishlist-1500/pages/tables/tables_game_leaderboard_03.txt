@@ -1,0 +1,2 @@
+A leaderboard for a video game with ranks, players and scores.
+Brand: Cinder Arena. Location: Portland, Maine. Visual direction: ocean palette; an editorial introduction with a narrow side column.

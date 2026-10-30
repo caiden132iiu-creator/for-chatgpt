@@ -1,0 +1,2 @@
+A recipe website with recipe cards (image, title, cook time).
+Brand: Alder Recipe Club. Location: Boise, Idaho. Visual direction: terracotta palette; a wide opening with a compact masthead.

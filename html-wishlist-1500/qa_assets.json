@@ -1,0 +1,168 @@
+{
+  "status": "passed",
+  "photographs_decoded": 23,
+  "assets": [
+    {
+      "path": "assets/photos/beans.jpg",
+      "width": 360,
+      "height": 240,
+      "sha256": "1e78b6c47e3e413913c67bde5e1ed34d58a10a447786a1523f7e2566671458d0",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-business-casual/master/src/assets/img/products-03.jpg"
+    },
+    {
+      "path": "assets/photos/cafe.jpg",
+      "width": 360,
+      "height": 240,
+      "sha256": "5a5fe06916021634c589fa32b1f7ea882aa7895bbcac81bddc338e72f7fc390a",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-business-casual/master/src/assets/img/about.jpg"
+    },
+    {
+      "path": "assets/photos/code.jpg",
+      "width": 360,
+      "height": 240,
+      "sha256": "75f837c94529c6264b75dec5c7c3533fe4aa123580d41f968d9cab01f9947cb0",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-landing-page/master/src/assets/img/bg-showcase-2.jpg"
+    },
+    {
+      "path": "assets/photos/coffee.jpg",
+      "width": 360,
+      "height": 240,
+      "sha256": "0b26e4fb251ef54899e44ea9d382cd194590f15d502a4f7c7288c778e839bc2a",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-business-casual/master/src/assets/img/intro.jpg"
+    },
+    {
+      "path": "assets/photos/drinks.jpg",
+      "width": 360,
+      "height": 240,
+      "sha256": "ec4ae98e99df17402320ce24e5f19ab79ad5e439c005aaf7de5d0a0a6461e985",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-business-casual/master/src/assets/img/products-01.jpg"
+    },
+    {
+      "path": "assets/photos/festival.jpg",
+      "width": 360,
+      "height": 240,
+      "sha256": "873bc2104d3d592bcdb54df3e68c6309f471779978510c9c62544413f944ca2b",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-agency/master/src/assets/img/header-bg.jpg"
+    },
+    {
+      "path": "assets/photos/forest.jpg",
+      "width": 360,
+      "height": 240,
+      "sha256": "a2683057e5041f4eefcb44ee06c28aaa18ecff594d37d0660dd2e083ba6a4826",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-grayscale/master/src/assets/img/demo-image-01.jpg"
+    },
+    {
+      "path": "assets/photos/mountain.jpg",
+      "width": 360,
+      "height": 240,
+      "sha256": "be80b95333c96f8a88ae0694491811b3f25be030eabe3bca817a5c848fd5e64c",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-grayscale/master/src/assets/img/bg-masthead.jpg"
+    },
+    {
+      "path": "assets/photos/ocean.jpg",
+      "width": 360,
+      "height": 240,
+      "sha256": "9f07d2c92f223cb69997d67916c97d25c803da5aa2c3d026bbaf929617baaab2",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-landing-page/master/src/assets/img/bg-masthead.jpg"
+    },
+    {
+      "path": "assets/photos/pastry.jpg",
+      "width": 360,
+      "height": 240,
+      "sha256": "47a46e7429211f802212527813929d133a107734ccd3f62bacf307da007ef2cb",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-business-casual/master/src/assets/img/products-02.jpg"
+    },
+    {
+      "path": "assets/photos/person1.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "ba3ea15a1b6e7a9b95964ada7eae5ad02276b822023b8bdd7dc26d1f84a59d80",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-agency/master/src/assets/img/team/1.jpg"
+    },
+    {
+      "path": "assets/photos/person2.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "dd63851fa7f994e0e6faed774daa1e87a1ef239ed34dbec9e0709385c211e7e6",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-agency/master/src/assets/img/team/2.jpg"
+    },
+    {
+      "path": "assets/photos/person3.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "a41f3f0f0aa128b7eb7dd594fcd965223c184a8506bc6f52a8933cd01d625872",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-agency/master/src/assets/img/team/3.jpg"
+    },
+    {
+      "path": "assets/photos/person4.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "acd21e36edf2c961bc9c9d575376faa8424cba0164a93a766aebdb4eb11ba93f",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-landing-page/master/src/assets/img/testimonials-1.jpg"
+    },
+    {
+      "path": "assets/photos/person5.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "5c210d7326eda331ba7f5096ca18fdcfc2613327f35427b327b8b0cd78e2e515",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-landing-page/master/src/assets/img/testimonials-2.jpg"
+    },
+    {
+      "path": "assets/photos/person6.jpg",
+      "width": 200,
+      "height": 200,
+      "sha256": "c3a887dc6e4aff9327fa70093c730cf7501319b05d15d8256bbb87ffc864bdcc",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-landing-page/master/src/assets/img/testimonials-3.jpg"
+    },
+    {
+      "path": "assets/photos/still1.jpg",
+      "width": 360,
+      "height": 240,
+      "sha256": "ec7ac85e3b8800506f57385295ce5e896a5ebcd761ff287eae48c666f863ae29",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-creative/master/src/assets/img/portfolio/thumbnails/1.jpg"
+    },
+    {
+      "path": "assets/photos/still2.jpg",
+      "width": 360,
+      "height": 240,
+      "sha256": "adc4c3bf9b771a7073691fb976fcfef5c5a3dedaf56322d6e11119c9c9bf0864",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-creative/master/src/assets/img/portfolio/thumbnails/2.jpg"
+    },
+    {
+      "path": "assets/photos/still3.jpg",
+      "width": 360,
+      "height": 240,
+      "sha256": "56db0674e5cb96e2996ac1502b9b155a730e025ded6d9d81c7a1b2f06e69d2f7",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-creative/master/src/assets/img/portfolio/thumbnails/3.jpg"
+    },
+    {
+      "path": "assets/photos/still4.jpg",
+      "width": 360,
+      "height": 240,
+      "sha256": "8f560cb1f2a55b7a57381623b4b3b456198fc40188794f88c45eb740becabbd0",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-creative/master/src/assets/img/portfolio/thumbnails/4.jpg"
+    },
+    {
+      "path": "assets/photos/still5.jpg",
+      "width": 360,
+      "height": 240,
+      "sha256": "4929819350e73dc0dafd264660d8983beacfb1c9b4dbcbfc34020ca107b42c3f",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-creative/master/src/assets/img/portfolio/thumbnails/5.jpg"
+    },
+    {
+      "path": "assets/photos/still6.jpg",
+      "width": 360,
+      "height": 240,
+      "sha256": "d63c6e8a8ce7ab97306e3393583e6c5857466f4b325d1c75fbc69c5090f1f497",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-creative/master/src/assets/img/portfolio/thumbnails/6.jpg"
+    },
+    {
+      "path": "assets/photos/valley.jpg",
+      "width": 360,
+      "height": 240,
+      "sha256": "e32ee22e115296cc8b9bfcc5c04e184a2c2e932596f51225f4b45507b1056b8d",
+      "source_url": "https://raw.githubusercontent.com/StartBootstrap/startbootstrap-grayscale/master/src/assets/img/demo-image-02.jpg"
+    }
+  ],
+  "coastal_asset_review": "The ocean source was visually verified as open water, resized to 360 \u00d7 240, and used in the final preview."
+}

@@ -1,0 +1,2 @@
+A full hotel site: nav, hero, rooms with prices, amenities, reviews, booking form, footer.
+Brand: Wren Hotel. Location: Asheville, North Carolina. Visual direction: purple palette; a wide photographic or illustrated opening.

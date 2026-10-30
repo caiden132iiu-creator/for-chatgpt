@@ -1,0 +1,2 @@
+A pizza restaurant menu with sizes and prices per pizza.
+Brand: Northstar Pizza Kitchen. Location: Tacoma, Washington. Visual direction: sage palette; a side introduction with a reading column.

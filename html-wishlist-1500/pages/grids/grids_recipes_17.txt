@@ -1,0 +1,2 @@
+A recipe website with recipe cards (image, title, cook time).
+Brand: Cedar Recipe Club. Location: Richmond, Virginia. Visual direction: terracotta palette; a wide opening with a compact masthead.

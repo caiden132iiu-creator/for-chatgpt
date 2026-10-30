@@ -1,0 +1,2 @@
+A weather app page with current weather and a 5-day forecast.
+Brand: Clover Weather. Location: Ann Arbor, Michigan. Visual direction: terracotta palette; a compact introduction with a strong vertical accent.

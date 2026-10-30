@@ -1,0 +1,2 @@
+A checkout page with shipping and payment fields.
+Brand: Saffron Supply Co.. Location: Salem, Massachusetts. Visual direction: sage palette; an editorial introduction with a narrow side column.

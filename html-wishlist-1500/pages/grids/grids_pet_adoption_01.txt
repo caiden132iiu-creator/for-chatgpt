@@ -1,0 +1,2 @@
+A pet adoption site with cards for each animal.
+Brand: Alder Animal Rescue. Location: Salem, Massachusetts. Visual direction: orange palette; a wide opening with a compact masthead.

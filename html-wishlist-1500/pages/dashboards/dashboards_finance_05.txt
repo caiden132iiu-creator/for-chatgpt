@@ -1,0 +1,2 @@
+A personal finance dashboard with balance, spending categories and transactions.
+Brand: Copper Money. Location: Santa Fe, New Mexico. Visual direction: orange palette; an accent-colored introductory band.

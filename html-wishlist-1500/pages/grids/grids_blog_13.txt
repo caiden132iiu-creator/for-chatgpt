@@ -1,0 +1,2 @@
+A blog homepage with a grid of article cards.
+Brand: Linden Dispatch. Location: Duluth, Minnesota. Visual direction: mustard palette; an accent-colored introductory band.

@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Harbor Operations. Location: Flagstaff, Arizona. Visual direction: cobalt palette; a wide opening with a compact masthead.

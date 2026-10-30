@@ -1,0 +1,2 @@
+A full hotel site: nav, hero, rooms with prices, amenities, reviews, booking form, footer.
+Brand: Kestrel Hotel. Location: Missoula, Montana. Visual direction: teal palette; a split introduction with a large image.

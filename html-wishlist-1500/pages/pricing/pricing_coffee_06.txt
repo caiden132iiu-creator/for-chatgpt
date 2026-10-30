@@ -1,0 +1,2 @@
+A coffee shop menu with drinks and pastries, each with a price.
+Brand: Northstar Coffee House. Location: Bellingham, Washington. Visual direction: indigo palette; a side introduction with a reading column.

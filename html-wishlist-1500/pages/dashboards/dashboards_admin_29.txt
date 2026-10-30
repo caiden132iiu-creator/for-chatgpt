@@ -1,0 +1,2 @@
+An admin dashboard with a sidebar, stat cards and a recent orders table.
+Brand: Cobalt Operations. Location: Flagstaff, Arizona. Visual direction: rose palette; an accent-colored introductory band.
